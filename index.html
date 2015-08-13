@@ -9,19 +9,27 @@
 
     <script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.css' rel='stylesheet' />
-    <link href='lib/bootstrap.min.css' rel='stylesheet' />
     <link href="map.css" rel='stylesheet' />
 </head>
 
 
 <body>
 
+    <div id="header-holder">
+
+        <div id="header">
+            <h1 class="title">Assistance Gap</h1>
+            <div class="source">Numbers shown for Public Use Microdata Areas. Data source: ACS-HIPSM 2015.
+                <a href="http://www.urban.org" target="_blank" class="urban"><span style="color:#1696d2">Urban</span> <span style="color:#000">Institute</span></a>
+            </div>
+        </div>
+
+    </div>
+
     <div id="map"></div>
 
 </body>
 
 <script src="map.js"></script>
-<script src='lib/jquery.min.js'></script>
-<script src='lib/bootstrap.min.js'></script>
 
 </html>
