@@ -1,0 +1,913 @@
+statefip,puma,state_puma,gap,gap1,pumaname,gapnum,gappct
+1,100,1_100,9224.113016,0.049065232,"Lauderdale, Colbert, Franklin & Marion (Northeast) Counties",9224,4.9
+1,200,1_200,7711.562622,0.042404771,Limestone & Madison (Outer) Counties--Huntsville City (Far West & Southwest),7712,4.2
+1,301,1_301,6904.465695,0.055091202,Huntsville (North) & Madison (East) Cities,6904,5.5
+1,302,1_302,4577.190453,0.04389032,Huntsville City (Central & South),4577,4.4
+1,400,1_400,5754.992121,0.044902939,DeKalb & Jackson Counties,5755,4.5
+1,500,1_500,6044.596075,0.048812047,Marshall & Madison (Southeast) Counties--Huntsville City (Far Southeast),6045,4.9
+1,600,1_600,7704.354741,0.049377408,Morgan & Lawrence Counties--Decatur City,7704,4.9
+1,700,1_700,6114.486262,0.057608299,Cullman & Winston Counties,6114,5.8
+1,800,1_800,7093.876612,0.04874545,St. Clair & Blount Counties,7094,4.9
+1,900,1_900,6314.761574,0.059780538,Etowah County,6315,6
+1,1000,1_1000,7613.389627,0.0483815,"Talladega, Cherokee, Randolph, Cleburne & Clay Counties",7613,4.8
+1,1100,1_1100,6473.768203,0.054691441,Calhoun County,6474,5.5
+1,1200,1_1200,4009.385108,0.019472867,Shelby County,4009,1.9
+1,1301,1_1301,7874.895992,0.079334781,Birmingham City (West),7875,7.9
+1,1302,1_1302,8486.310403,0.07859052,Birmingham City (East),8486,7.9
+1,1303,1_1303,3266.762072,0.018098028,"Jefferson County (Southeast)--Hoover (North), Vestavia Hills & Homewood Cities",3267,1.8
+1,1304,1_1304,6009.689487,0.035075407,"Jefferson County (Northeast)--Trussville, Center Point & Gardendale Cities",6010,3.5
+1,1305,1_1305,5098.209093,0.045746457,"Jefferson County (West)--Bessemer, Hueytown & Pleasant Grove Cities",5098,4.6
+1,1400,1_1400,6414.070419,0.052571435,"Walker, Marion (South & West), Fayette & Lamar Counties",6414,5.3
+1,1500,1_1500,4306.268594,0.040141232,Tuscaloosa (Outer) & Pickens Counties--Northport City (North & West),4306,4
+1,1600,1_1600,7274.370437,0.065179899,Tuscaloosa & Northport (Southeast) Cities,7274,6.5
+1,1700,1_1700,8107.945798,0.061110929,"Dallas, Bibb, Marengo, Hale, Sumter, Perry & Greene Counties",8108,6.1
+1,1800,1_1800,7272.454513,0.055243537,"Chilton, Tallapoosa, Chambers & Coosa Counties",7272,5.5
+1,1900,1_1900,7745.460974,0.052122813,Lee County--Auburn City,7745,5.2
+1,2000,1_2000,11245.06359,0.056993093,Montgomery City & Pike Road Town (North),11245,5.7
+1,2100,1_2100,6164.00501,0.034601383,"Elmore, Autauga, Montgomery (Outer) & Lowndes Counties",6164,3.5
+1,2200,1_2200,11526.11965,0.082784593,Southwest Alabama,11526,8.3
+1,2300,1_2300,6484.886155,0.052019004,"Coffee, Covington, Butler & Crenshaw Counties",6485,5.2
+1,2400,1_2400,9179.456653,0.061993297,"Russell, Pike, Barbour, Macon & Bullock Counties",9179,6.2
+1,2500,1_2500,10795.80517,0.053921837,"Houston, Dale, Geneva & Henry Counties--Dothan City",10796,5.4
+1,2600,1_2600,10186.19436,0.051818863,Baldwin County,10186,5.2
+1,2701,1_2701,10811.72273,0.096988983,Mobile City (East),10812,9.7
+1,2702,1_2702,5889.963007,0.054964855,Mobile City (West),5890,5.5
+1,2703,1_2703,7706.004752,0.039540231,"Mobile County (Outer)--Prichard City, Tillmans Corner & Saraland City",7706,4
+12,101,12_101,10419.25494,0.074336715,Alachua County (Central)--Gainesville City (Central),10419,7.4
+12,102,12_102,3873.255445,0.035808701,Alachua County (Outer),3873,3.6
+12,500,12_500,13408.3207,0.049838811,"Walton, Washington, Holmes & Bay Counties",13408,5
+12,901,12_901,9208.578043,0.050641965,"Brevard County (Northwest)--Titusville, Rockledge & Cocoa Cities",9209,5.1
+12,902,12_902,4012.249662,0.034487974,Brevard County (East)--Beaches & Merritt Island,4012,3.4
+12,903,12_903,4803.978764,0.039287303,Brevard County (Southwest)--Melbourne & West Melbourne Cities,4804,3.9
+12,904,12_904,6986.060655,0.053468287,"Brevard County (Southeast)--Palm Bay City, Grant-Valkaria & Malabar Towns",6986,5.3
+12,1101,12_1101,4401.661952,0.028464559,Broward County (West)--Coral Springs & Parkland Cities,4402,2.8
+12,1102,12_1102,5929.138109,0.05091913,Broward County (North Central)--Margate & Coconut Creek Cities,5929,5.1
+12,1103,12_1103,5379.140242,0.050637066,"Broward County--Deerfield, Pompano Beach (North) & Lighthouse Point Cities",5379,5.1
+12,1104,12_1104,6659.114083,0.055631112,Broward County--Pompano Beach (South) & Fort Lauderdale (Northeast) Cities,6659,5.6
+12,1105,12_1105,10371.67452,0.057109028,"Broward County (Central)--Tamarac, Oakland Park & North Lauderdale Cities",10372,5.7
+12,1106,12_1106,9117.195898,0.051110163,Broward County (Central)--Plantation & Sunrise Cities,9117,5.1
+12,1107,12_1107,9383.706045,0.086661823,Broward County (Central)--Lauderhill & Lauderdale Lakes Cities,9384,8.7
+12,1108,12_1108,10945.52648,0.071638376,Broward County (East Central)--Fort Lauderdale City (Central),10946,7.2
+12,1109,12_1109,6869.834624,0.064239718,Broward County (Southeast)--Hollywood (North) & Dania Beach (South) Cities,6870,6.4
+12,1110,12_1110,3992.831069,0.032214493,Broward County (Central)--Davie Town & Cooper City,3993,3.2
+12,1111,12_1111,3794.336129,0.02622818,"Broward County--Weston, Pembroke Pines (Northwest) Cities & Southwest Ranches Town",3794,2.6
+12,1112,12_1112,4756.40579,0.034505121,Broward County (South Central)--Miramar (West) & Pembroke Pines (Southwest) Cities,4756,3.5
+12,1113,12_1113,8150.85846,0.064557306,Broward County (Southeast)--Hollywood (South) & Pembroke Pines (East) Cities,8151,6.5
+12,1114,12_1114,9966.378846,0.077886045,"Broward County (Southeast)--Miramar (East), Hallandale Beach & West Park Cities",9966,7.8
+12,1500,12_1500,8129.950973,0.049665589,Charlotte County,8130,5
+12,1701,12_1701,5315.203231,0.037969384,Citrus County,5315,3.8
+12,1900,12_1900,6347.626231,0.032612357,Clay County,6348,3.3
+12,2101,12_2101,2250.66881,0.01988855,Collier County (Northwest),2251,2
+12,2102,12_2102,5036.685245,0.043122791,Collier County (Southwest),5037,4.3
+12,2103,12_2103,6519.234919,0.056113735,Collier County (East),6519,5.6
+12,2300,12_2300,10391.0718,0.061422728,"Columbia, Levy, Bradford, Gilchrist, Dixie & Union Counties",10391,6.1
+12,2700,12_2700,7094.813476,0.046537444,"Southwest Heartland--Highlands (Northwest), DeSoto & Hardee Counties",7095,4.7
+12,3101,12_3101,6710.890617,0.054616805,Duval County (Outer)--Jacksonville City (North & West),6711,5.5
+12,3102,12_3102,9170.242703,0.077135138,Duval County (Northwest Central)--Jacksonville City (Northwest),9170,7.7
+12,3103,12_3103,5826.135841,0.055263788,Duval County (North Central)--Jacksonville City (Arlington),5826,5.5
+12,3104,12_3104,6509.986842,0.049512576,Duval County (East)--Jacksonville City (Beaches),6510,5
+12,3105,12_3105,4169.962792,0.033663765,Duval County (Southeast)--Jacksonville City (Southeast),4170,3.4
+12,3106,12_3106,4572.147722,0.039968941,Duval County (South Central)--Jacksonville City (Southeast River),4572,4
+12,3107,12_3107,9265.555963,0.054724235,Duval County (Southwest Central)--Jacksonville City (Southwest),9266,5.5
+12,3301,12_3301,4663.842319,0.041713517,Escambia County (North),4664,4.2
+12,3302,12_3302,9650.497925,0.051567387,Escambia County (South),9650,5.2
+12,3500,12_3500,4271.303405,0.039726432,Flagler & Volusia (North Central) Counties,4271,4
+12,5301,12_5301,6804.740659,0.03872158,Hernando County,6805,3.9
+12,5701,12_5701,11177.30639,0.07391458,Hillsborough County (Central)--Tampa City (Central),11177,7.4
+12,5702,12_5702,5790.225829,0.03463278,Hillsborough County (Southwest)--Tampa City (South),5790,3.5
+12,5703,12_5703,6156.810691,0.040661722,Hillsborough County (Northwest),6157,4.1
+12,5704,12_5704,6787.884741,0.041273106,Hillsborough County (North Central),6788,4.1
+12,5705,12_5705,7554.041718,0.048616961,Hillsborough County (North Central)--Tampa City (North),7554,4.9
+12,5706,12_5706,7854.916319,0.058608066,Hillsborough County (Northeast),7855,5.9
+12,5707,12_5707,7274.786859,0.038796794,Hillsborough County (Central),7275,3.9
+12,5708,12_5708,6349.98678,0.031944457,Hillsborough County (South County),6350,3.2
+12,6100,12_6100,7313.063599,0.05112417,Indian River County,7313,5.1
+12,6300,12_6300,8635.14329,0.050251499,Apalachee Region (Outside Leon County),8635,5
+12,6901,12_6901,4606.036135,0.045950118,Lake County (North),4606,4.6
+12,6902,12_6902,4506.060909,0.031489037,Sumter (North) & Lake (North) Counties,4506,3.1
+12,6903,12_6903,5262.926657,0.031863883,Lake (South) & Sumter (South) Counties,5263,3.2
+12,7101,12_7101,2772.378481,0.02392273,Lee County (South & West)--Barrier Islands Region,2772,2.4
+12,7102,12_7102,8688.934702,0.049992088,Lee County (Northwest)--Cape Coral City,8689,5
+12,7103,12_7103,11354.79634,0.067475371,Lee County (Northeast)--Lehigh Acres & North Fort Myers,11355,6.7
+12,7104,12_7104,6817.216243,0.066576175,Lee County (Central)--Greater Fort Myers City,6817,6.7
+12,7105,12_7105,3699.548057,0.034987152,Lee County (Southeast)--Bonita Springs City & Estero (East),3700,3.5
+12,7300,12_7300,4047.85813,0.028027004,Leon County (Outer),4048,2.8
+12,7301,12_7301,7964.32516,0.058713619,Leon County (Central)--Tallahassee City (Central),7964,5.9
+12,8101,12_8101,3796.048647,0.033483852,Manatee County (North),3796,3.3
+12,8102,12_8102,6063.125637,0.051458135,Manatee County (West Central),6063,5.1
+12,8103,12_8103,4441.546356,0.039874099,Manatee County (South),4442,4
+12,8301,12_8301,6500.580679,0.066045873,Marion County (North),6501,6.6
+12,8302,12_8302,5656.960738,0.055868961,Marion County (Central)--Ocala City,5657,5.6
+12,8303,12_8303,6292.6198,0.04531429,Marion County (South Central),6293,4.5
+12,8500,12_8500,6962.824287,0.046339899,Martin County,6963,4.6
+12,8601,12_8601,7429.766616,0.05447844,Miami-Dade County (North Central)--Greater Miami Lakes Town,7430,5.4
+12,8602,12_8602,9405.617563,0.082434312,Miami-Dade County (North Central)--Miami Gardens City (North & West),9406,8.2
+12,8603,12_8603,8092.137675,0.072312132,Miami-Dade County (Northeast)--Greater North Miami Beach City (West),8092,7.2
+12,8604,12_8604,4006.180449,0.037644036,Miami-Dade County (Northeast)--Aventura City & Surfside Town,4006,3.8
+12,8605,12_8605,13528.83087,0.11869884,Miami-Dade County--North Miami City (Southwest) & Golden Glades (West),13529,11.9
+12,8606,12_8606,8329.701377,0.08019428,"Miami-Dade County (Northeast)--Opa-Locka City, West Little River & Westview",8330,8
+12,8607,12_8607,9743.675088,0.084132701,Miami-Dade County (Northeast)--Hialeah City (North Central),9744,8.4
+12,8608,12_8608,5946.064321,0.048659708,"Miami-Dade County (North Central)--Doral, Sweetwater Cities & Fontainebleau",5946,4.9
+12,8609,12_8609,9873.211701,0.085804574,Miami-Dade County (Northeast)--Hialeah City (South Central),9873,8.6
+12,8610,12_8610,8730.575799,0.08079309,Miami-Dade County (Central)--Miami Springs City & Miami International Airport,8731,8.1
+12,8611,12_8611,11185.01779,0.097703069,Miami-Dade County (Northeast Central)--Miami City (North),11185,9.8
+12,8612,12_8612,4796.722826,0.044425309,Miami-Dade County (Northeast)--Miami Beach City & Miami Shores Village,4797,4.4
+12,8613,12_8613,8596.002554,0.08080709,Miami-Dade County (Northeast Central)--Miami City (Downtown),8596,8.1
+12,8614,12_8614,4989.595488,0.044318393,Miami-Dade County (East)--Miami City (East) & Key Biscayne Village,4990,4.4
+12,8615,12_8615,11387.46033,0.093673587,Miami-Dade County (East Central)--Miami City (West),11387,9.4
+12,8616,12_8616,3025.308031,0.027030803,"Miami-Dade County (East)--Coral Gables City, Pinecrest Village & Kendall (South)",3025,2.7
+12,8617,12_8617,4725.089631,0.040857315,"Miami-Dade County (East Central)--South Miami City, Westchester & Coral Terrace",4725,4.1
+12,8618,12_8618,6029.470657,0.051870551,Miami-Dade County (North Central)--Tamiami Trail Region (South)--Tamiami,6029,5.2
+12,8619,12_8619,5836.752404,0.050875634,Miami-Dade County (Central)--Kendale Lakes (Southwest) & Kendall West (South),5837,5.1
+12,8620,12_8620,5554.296993,0.051110126,"Miami-Dade County (East Central)--Kendall (North), Sunset & Westwood Lakes",5554,5.1
+12,8621,12_8621,4490.330387,0.039054446,"Miami-Dade County (Central)--The Hammocks (West), Richmond West (West) & Country Walk",4490,3.9
+12,8622,12_8622,8525.204999,0.070052192,Miami-Dade County (Southwest)--South Miami Heights,8525,7
+12,8623,12_8623,6571.980984,0.052693341,Miami-Dade County (Southeast)--Cutler Bay Town & Palmetto Bay Village,6572,5.3
+12,8624,12_8624,6837.067037,0.060629256,Miami-Dade County (South)--Homestead City (North) & Florida City (North),6837,6.1
+12,8700,12_8700,6082.962327,0.056048643,Miami-Dade (South/Outside Urban Development Boundary) & Monroe Counties,6083,5.6
+12,8900,12_8900,4274.280072,0.042839326,Nassau & Baker Counties,4274,4.3
+12,9100,12_9100,7707.828855,0.041089635,Okaloosa County,7708,4.1
+12,9300,12_9300,5186.722998,0.053992923,"Southeast Heartland--Highlands (South & East), Okeechobee, Hendry & Glades Counties",5187,5.4
+12,9501,12_9501,8416.003993,0.060937617,Orange County (Northwest),8416,6.1
+12,9502,12_9502,6247.747631,0.044807125,"Orange County (West Central)--Winter Garden, Ocoee Cities & Oakland Town",6248,4.5
+12,9503,12_9503,3954.848158,0.034353353,Orange County (Southwest)--Disney-International Drive Region,3955,3.4
+12,9504,12_9504,9543.859807,0.074134409,"Orange County (South Central)--Orlando City (South Central), Conway & Pine Castle",9544,7.4
+12,9505,12_9505,8886.411048,0.074933954,Orange County (Central)--Orlando City (East Downtown) & Azalea Park,8886,7.5
+12,9506,12_9506,7294.731998,0.065650314,Orange County (Central)--Orlando City (West Downtown) & Pine Hills (Southeast),7295,6.6
+12,9507,12_9507,4110.890283,0.037431687,"Orange County (North Central)--Orlando (North), Winter Park & Maitland Cities",4111,3.7
+12,9508,12_9508,7564.231148,0.063606568,Orange County (North Central)--Orlando City (Univ. of Central Florida) & Union Park,7564,6.4
+12,9509,12_9509,5040.082713,0.037600096,Orange County (Southeast),5040,3.8
+12,9510,12_9510,5369.468126,0.043991137,Orange County (Northeast),5369,4.4
+12,9701,12_9701,11418.00937,0.065971695,Osceola County (West),11418,6.6
+12,9702,12_9702,4551.646048,0.034554649,Osceola County (East),4552,3.5
+12,9901,12_9901,3489.801775,0.032153584,Palm Beach County (Northeast),3490,3.2
+12,9902,12_9902,4501.312535,0.039504085,Palm Beach County (Northeast)--Palm Beach Gardens & Riviera Beach Cities,4501,4
+12,9903,12_9903,7827.200171,0.050832432,Palm Beach County (East)--West Palm Beach City (Southeast) & Palm Beach Town,7827,5.1
+12,9904,12_9904,8913.926778,0.063673101,Palm Beach County (East)--Greenacres City (North) & Palm Springs Village (North),8914,6.4
+12,9905,12_9905,7727.923819,0.056975141,"Palm Beach County (East Central)--Lake Worth City, Lantana Town & Atlantis City",7728,5.7
+12,9906,12_9906,7437.871144,0.047387946,Palm Beach County (East Central)--Greater Boynton Beach City (North),7438,4.7
+12,9907,12_9907,6218.548033,0.05161237,Palm Beach County (Southeast)--Greater Delray Beach City,6219,5.2
+12,9908,12_9908,3237.289013,0.028831463,Palm Beach County (Southeast)--Boca Raton City & Highland Beach Town,3237,2.9
+12,9909,12_9909,4339.627537,0.039127491,Palm Beach County (West of Boca Raton City),4340,3.9
+12,9910,12_9910,1788.380057,0.016019728,Palm Beach County (Central)--Wellington Village & Agricultural Reserve,1788,1.6
+12,9911,12_9911,4433.96168,0.034318663,Palm Beach County (West)--Glades & Western Communities,4434,3.4
+12,10101,12_10101,4414.081296,0.038967505,Pasco County (East Central),4414,3.9
+12,10102,12_10102,4535.231988,0.044228971,Pasco County (West Central),4535,4.4
+12,10103,12_10103,8796.050239,0.067727841,Pasco County (Gulf Coast),8796,6.8
+12,10104,12_10104,2981.145172,0.023238471,Pasco County (South),2981,2.3
+12,10301,12_10301,4284.668057,0.034845836,Pinellas County (North),4285,3.5
+12,10302,12_10302,3792.12317,0.035349604,Pinellas County (North Central),3792,3.5
+12,10303,12_10303,6495.209652,0.06230982,Pinellas County (Central)--Clearwater City (South & Central),6495,6.2
+12,10304,12_10304,4910.353539,0.045952424,Pinellas County (Central)--Greater Largo City,4910,4.6
+12,10305,12_10305,4442.799977,0.041824713,Pinellas County (West Central)--Greater Seminole City,4443,4.2
+12,10306,12_10306,6552.531936,0.057552211,Pinellas County (Central)--Greater Pinellas Park City,6553,5.8
+12,10307,12_10307,7853.510693,0.050628446,Pinellas County (Southeast)--St. Petersburg City (East),7854,5.1
+12,10308,12_10308,5103.279691,0.046801988,Pinellas County (South Central)--St. Petersburg City (West),5103,4.7
+12,10501,12_10501,7310.705794,0.041137997,Polk County (Northwest),7311,4.1
+12,10502,12_10502,9482.462071,0.057542007,Polk County (Northeast),9482,5.8
+12,10503,12_10503,4797.776988,0.03454769,Polk County (Central),4798,3.5
+12,10504,12_10504,5847.765737,0.040448315,Polk County (South),5848,4
+12,10700,12_10700,6307.053073,0.060276143,Putnam & St. Johns (South) Counties,6307,6
+12,10900,12_10900,4391.347793,0.025338477,St. Johns County (North),4391,2.5
+12,11101,12_11101,6375.419188,0.062064555,St. Lucie County (North),6375,6.2
+12,11102,12_11102,9236.172804,0.049123418,St. Lucie County (South),9236,4.9
+12,11300,12_11300,4869.745354,0.03202454,Santa Rosa County,4870,3.2
+12,11501,12_11501,6474.055674,0.052442487,Sarasota County (North),6474,5.2
+12,11502,12_11502,4388.738701,0.03215526,Sarasota County (Central & Gulf Coast),4389,3.2
+12,11503,12_11503,6519.968021,0.049271882,Sarasota County (East),6520,4.9
+12,11701,12_11701,5841.297169,0.053620484,Seminole County (West),5841,5.4
+12,11702,12_11702,6052.873653,0.05853612,Seminole County (North Central),6053,5.9
+12,11703,12_11703,6428.219404,0.057689894,Seminole County (South Central),6428,5.8
+12,11704,12_11704,4448.875915,0.039251059,Seminole County (East),4449,3.9
+12,12100,12_12100,5420.562499,0.055562023,"Suwannee, Taylor, Madison, Hamilton & Lafayette Counties",5421,5.6
+12,12701,12_12701,5185.889841,0.045573723,"Volusia County (Central & Northwest)--DeLand, DeBary Cities & Pierson Town",5186,4.6
+12,12702,12_12702,8442.695792,0.069455713,"Volusia County (Northeast)--Daytona Beach, Ormond Beach & Holly Hill Cities",8443,6.9
+12,12703,12_12703,6336.163514,0.046839293,"Volusia County--Port Orange, Edgewater, New Smyrna Beach (East) & Oak Hill Cities",6336,4.7
+12,12704,12_12704,7111.457917,0.05744379,Volusia County (Southwest Central)--Deltona & Lake Helen Cities,7111,5.7
+13,100,13_100,7975.672885,0.05252381,Coastal Regional Commission (South)--Glynn Camden & McIntosh Counties,7976,5.3
+13,200,13_200,6485.60368,0.05343968,"Coastal Regional Commission (West)--Liberty, Bryan & Long Counties",6486,5.3
+13,300,13_300,8376.121559,0.057130322,"Coastal Regional Commission (North)--Bulloch, Effingham & Screven Counties",8376,5.7
+13,401,13_401,13461.00625,0.075366512,Coastal Regional Commission (East)--Chatham County (West Central)--Savannah City,13461,7.5
+13,402,13_402,4140.502309,0.036177535,Coastal Regional Commission (East)--Chatham County (East & Outside Savannah City),4141,3.6
+13,500,13_500,10461.43059,0.060535457,Southern Georgia Regional Commission (East & Central),10461,6.1
+13,600,13_600,7017.867715,0.060025632,Southern Georgia Regional Commission (South Central)--Lowndes County--Valdosta City,7018,6
+13,700,13_700,10836.43024,0.080488428,Southern Georgia Regional Commission (West),10836,8
+13,800,13_800,6495.362837,0.054433346,"Southwest Georgia Regional Commission (East)--Colquitt, Thomas & Worth Counties",6495,5.4
+13,900,13_900,10089.14091,0.078904182,Southwest Georgia Regional Commission (North Central)--Dougherty & Lee Counties,10089,7.9
+13,1001,13_1001,5004.82274,0.039734509,Atlanta Regional Commission (Central)--Fulton County (North)--Sandy Springs City,5005,4
+13,1002,13_1002,1918.457939,0.015685622,Atlanta Regional Commission (Central)--Fulton County (Northeast)--Johns Creek City,1918,1.6
+13,1003,13_1003,12531.78669,0.093481839,Atlanta Regional Commission (Central)--Fulton County (Central)--Atlanta City (South),12532,9.3
+13,1004,13_1004,5314.507209,0.039450012,Atlanta Regional Commission (Central)--Fulton County (South)--Union & Fairburn Cities,5315,3.9
+13,1005,13_1005,4096.149044,0.024372471,Atlanta Regional Commission (Central)--Fulton County (Northwest)--Roswell City,4096,2.4
+13,1006,13_1006,4654.632212,0.037982393,Atlanta Regional Commission (Central)--Fulton County (Central)--Atlanta City (North),4655,3.8
+13,1007,13_1007,9486.651268,0.070731319,Atlanta Regional Commission (Central)--Fulton County (East)--Atlanta City (Southeast),9487,7.1
+13,1008,13_1008,8343.271374,0.063867517,Atlanta Regional Commission (Central)--DeKalb County (South),8343,6.4
+13,1100,13_1100,9484.922898,0.077913061,Southwest Georgia Regional Commission (West & Central),9485,7.8
+13,1200,13_1200,10160.74823,0.067674622,Heart of Georgia Altamaha Regional Commission (Southeast),10161,6.8
+13,1300,13_1300,9558.277669,0.06699083,Heart of Georgia Altamaha Regional Commission (North & West),9558,6.7
+13,1400,13_1400,11811.36949,0.072175555,Middle Georgia Regional Commission (Central)--Bibb County--Macon City,11811,7.2
+13,1500,13_1500,8056.185621,0.049008068,Middle Georgia Regional Commission (South)--Houston & Pulaski Counties,8056,4.9
+13,1600,13_1600,9486.553938,0.050652988,Middle Georgia Regional Commission (North & Outside Bibb County),9487,5.1
+13,1700,13_1700,14296.92171,0.063832678,River Valley Regional Commission (West Central)--Muscogee & Chattahoochee Counties,14297,6.4
+13,1800,13_1800,12163.60452,0.071345963,River Valley Regional Commission (Outside Muscogee & Chattahoochee Counties),12164,7.1
+13,1900,13_1900,10446.79,0.067246959,Three Rivers Regional Commission (East),10447,6.7
+13,2001,13_2001,5392.589542,0.037885547,Atlanta Regional Commission (Central)--DeKalb County (East Central)--Redan,5393,3.8
+13,2002,13_2002,9144.424403,0.066180348,Atlanta Regional Commission--DeKalb County--Decatur & Avondale Estates Cities,9144,6.6
+13,2003,13_2003,10544.7233,0.059595536,Atlanta Regional Commission (Central)--DeKalb County (Northeast)--Tucker,10545,6
+13,2004,13_2004,4528.281323,0.029880278,Atlanta Regional Commission--DeKalb County (North)--Dunwoody City,4528,3
+13,2100,13_2100,5973.869684,0.042984471,Three Rivers Regional Commission (North Central)--Coweta County,5974,4.3
+13,2200,13_2200,5260.087775,0.04959273,"Three Rivers Regional Commission (Southwest)--Troup, Meriwether & Heard Counties",5260,5
+13,2300,13_2300,7589.17538,0.065115362,Three Rivers Regional Commission (Northwest)--Carroll County,7589,6.5
+13,2400,13_2400,3946.230027,0.034661584,Atlanta Regional Commission (South Central)--Fayette County,3946,3.5
+13,2500,13_2500,10447.31522,0.060478479,"Northwest Georgia Regional Commission (Southwest)--Floyd, Polk & Haralson Counties",10447,6
+13,2600,13_2600,10913.73517,0.061195705,"Northwest Georgia Regional Commission--Walker, Catoosa, Chattooga & Dade Counties",10914,6.1
+13,2700,13_2700,5922.139571,0.051485628,Northwest Georgia Regional Commission (North Central)--Whitfield County,5922,5.1
+13,2800,13_2800,11453.56391,0.061683733,Northwest Georgia Regional Commission (Northeast),11454,6.2
+13,2900,13_2900,6648.559572,0.063030049,Northwest Georgia Regional Commission (East Central)--Bartow County,6649,6.3
+13,3001,13_3001,9220.609972,0.056350056,Atlanta Regional Commission (Northwest)--Cobb County (Central)--Marietta City,9221,5.6
+13,3002,13_3002,5139.443445,0.037945416,Atlanta Regional Commission--Cobb County (Northwest)--Kennesaw & Acworth Cities,5139,3.8
+13,3003,13_3003,5165.348043,0.038982168,Atlanta Regional Commission (Northwest)--Cobb County (Southwest)--Powder Springs City,5165,3.9
+13,3004,13_3004,8608.028606,0.048564933,Atlanta Regional Commission (Northwest)--Cobb County (Southeast)--Smyrna City,8608,4.9
+13,3005,13_3005,3262.743952,0.021365907,Atlanta Regional Commission (Northwest)--Cobb County (Northeast),3263,2.1
+13,3101,13_3101,5363.48424,0.048749667,Atlanta Regional Commission--Cherokee County (Central)--Woodstock & Canton Cities,5363,4.9
+13,3102,13_3102,4167.673198,0.033555131,Atlanta Regional Commission--Cherokee County (Outside Woodstock & Canton Cities),4168,3.4
+13,3200,13_3200,9235.718948,0.068723731,Georgia Mountains Regional Commission (North & Northwest),9236,6.9
+13,3300,13_3300,5204.782754,0.025909202,Georgia Mountains Regional Commission (Southwest)--Forsyth County,5205,2.6
+13,3400,13_3400,9776.873893,0.047698792,Georgia Mountains Regional Commission (South Central)--Hall County,9777,4.8
+13,3500,13_3500,7827.301991,0.056282483,Georgia Mountains Regional Commission (Southeast),7827,5.6
+13,3600,13_3600,8438.543539,0.066166133,Northeast Georgia Regional Commission (Central)--Clarke County--Athens City,8439,6.6
+13,3700,13_3700,5403.148337,0.046572279,Northeast Georgia Regional Commission (East),5403,4.7
+13,3800,13_3800,6530.939337,0.047307957,Northeast Georgia Regional Commission (Northwest)--Barrow & Jackson Counties,6531,4.7
+13,3900,13_3900,6041.620926,0.049803212,"Northeast Georgia Regional Commission (Southwest)--Walton, Morgan & Jasper Counties",6042,5
+13,4000,13_4000,14645.31439,0.068595327,Central Savannah River Area Regional Commission (East Central)--Richmond County,14645,6.9
+13,4001,13_4001,7524.155691,0.047343053,Atlanta Regional Commission (Northeast)--Gwinnett County (West Central)--Duluth City,7524,4.7
+13,4002,13_4002,3568.643581,0.029015413,Atlanta Regional Commission (Northeast)--Gwinnett County (North)--Sugar Hill City,3569,2.9
+13,4003,13_4003,7780.154794,0.050539058,Atlanta Regional Commission--Gwinnett County (Central)--Lawrenceville City,7780,5.1
+13,4004,13_4004,3160.747596,0.024978604,Atlanta Regional Commission (Northeast)--Gwinnett County (East),3161,2.5
+13,4005,13_4005,4825.145998,0.034958746,Atlanta Regional Commission (Northeast)--Gwinnett County (South)--Snellville City,4825,3.5
+13,4006,13_4006,12722.29078,0.055197679,Atlanta Regional Commission (Northeast)--Gwinnett County (Southwest)--Lilburn City,12722,5.5
+13,4100,13_4100,3687.091305,0.026556935,Central Savannah River Area Regional Commission (East Central)--Columbia County,3687,2.7
+13,4200,13_4200,8542.60733,0.065147318,Central Savannah River Area Regional Commission (West & Outside Richmond & Columbia),8543,6.5
+13,4300,13_4300,13380.93988,0.066854723,Atlanta & Northeast Georgia Regional Commissions--Newton & Rockdale Counties,13381,6.7
+13,4400,13_4400,8367.634489,0.057916928,Atlanta Regional Commission (Southwest)--Douglas County,8368,5.8
+13,4500,13_4500,7867.093352,0.051878721,Northwest Georgia Regional Commission (Southeast)--Paulding County,7867,5.2
+13,4600,13_4600,13768.1391,0.098539203,Atlanta Regional Commission--Fulton County (Central)--Atlanta City (Central),13768,9.9
+13,5001,13_5001,9977.662076,0.081388012,Atlanta Regional Commission (South Central)--Clayton County (South),9978,8.1
+13,5002,13_5002,15068.39739,0.090822004,Atlanta Regional Commission (South Central)--Clayton County (North)--Forest Park City,15068,9.1
+13,6001,13_6001,5296.165826,0.04765252,Atlanta Regional Commission (Southeast)--Henry County (South)--McDonough City,5296,4.8
+13,6002,13_6002,4777.913576,0.042944051,Atlanta Regional Commission (Southeast)--Henry County (North)--Stockbridge City,4778,4.3
+16,100,16_100,5146.635695,0.042566318,"Bonner, Latah, Shoshone, Boundary, Benewah & Kootenai (Southeast) Counties",5147,4.3
+16,200,16_200,6256.915896,0.043987442,"Kootenai County (Northwest)--Coeur d'Alene, Post Falls & Hayden Cities",6257,4.4
+16,300,16_300,5892.740305,0.05551438,Central Idaho--Lewiston City & Nez Perce Reservation,5893,5.6
+16,400,16_400,6789.844201,0.059543699,"Ada (North), Payette, Canyon (North), Gem & Washington Counties--Eagle City",6790,6
+16,500,16_500,6857.15746,0.056323834,Canyon (South) & Owyhee Counties--Caldwell & Nampa (South & West) Cities,6857,5.6
+16,600,16_600,6521.153306,0.054273173,Canyon (East) & Ada (West) Counties--Nampa (Central & East) & Meridian (West) Cities,6521,5.4
+16,701,16_701,2428.622326,0.020519463,Ada County (Central)--Meridian (Northeast) & Boise (Far West) Cities,2429,2.1
+16,702,16_702,3999.67531,0.036867823,Ada County (Northeast)--Boise (North & West) & Garden City Cities,4000,3.7
+16,800,16_800,6311.638612,0.05566847,Ada County (South)--Boise (South) & Kuna Cities,6312,5.6
+16,900,16_900,4484.773532,0.041569393,Twin Falls & Cassia Counties--Twin Falls City,4485,4.2
+16,1000,16_1000,4695.458511,0.038643517,"Elmore, Jerome, Blaine, Minidoka, Gooding, Lincoln & Camas Counties",4695,3.9
+16,1100,16_1100,4654.75283,0.033991158,"Bingham (Outside Fort Hall AIR), Madison, Jefferson, Fremont & Teton Counties",4655,3.4
+16,1200,16_1200,3593.092222,0.032120634,Bonneville County--Idaho Falls City,3593,3.2
+16,1300,16_1300,5259.07028,0.040860891,"Southeast Idaho--Pocatello, Chubbuck Cities & Fort Hall Reservation",5259,4.1
+20,100,20_100,3229.736042,0.029358517,Northwest Kansas,3230,2.9
+20,200,20_200,5007.139432,0.033648312,North Central Kansas--Salina City,5007,3.4
+20,300,20_300,4161.260333,0.03092072,"Riley, Geary & Pottawatomie Counties--Manhattan City",4161,3.1
+20,400,20_400,3499.742255,0.030215438,Northeast Kansas,3500,3
+20,500,20_500,7355.71884,0.043311764,Wyandotte County--Kansas City,7356,4.3
+20,601,20_601,2790.618817,0.023701062,"Johnson County (Northwest)--Shawnee, Lenexa & De Soto Cities",2791,2.4
+20,602,20_602,4330.101547,0.02851508,"Johnson County (Northeast)--Overland Park (North), Prairie Village & Merriam Cities",4330,2.9
+20,603,20_603,3537.291805,0.022194201,"Johnson County (Southwest)--Olathe, Gardner, Spring Hill & Edgerton Cities",3537,2.2
+20,604,20_604,1542.851191,0.010927525,Johnson County (Southeast)--Blue Valley Region,1543,1.1
+20,700,20_700,3831.600556,0.033909954,Douglas County--Lawrence City,3832,3.4
+20,801,20_801,5382.210869,0.052704927,Shawnee County (Central)--Topeka City,5382,5.3
+20,802,20_802,2271.216562,0.018268038,"Shawnee (Outside Topeka City), Osage, Jackson, Brown & Wabaunsee Counties",2271,1.8
+20,900,20_900,3833.180035,0.034938864,Flint Hills Region--Emporia City,3833,3.5
+20,1000,20_1000,2984.449089,0.029136939,Central Kansas--Hutchinson City,2984,2.9
+20,1100,20_1100,4362.743403,0.037553068,South Central Kansas,4363,3.8
+20,1200,20_1200,3639.141061,0.024434356,"Southwest Kansas--Dodge City, Garden City & Liberal City",3639,2.4
+20,1301,20_1301,3056.731402,0.018518493,Sedgwick (Northwest) & Harvey Counties--Wichita (Northwest) & Newton Cities,3057,1.9
+20,1302,20_1302,5016.212152,0.030807395,Sedgwick (Northeast) & Butler (North & East) Counties--Wichita City (Northeast),5016,3.1
+20,1303,20_1303,8125.334438,0.064610556,Sedgwick County (Central)--Wichita City (Central),8125,6.5
+20,1304,20_1304,6424.351091,0.039462615,Sedgwick (South) & Butler (Southwest) Counties--Wichita (South) & Derby Cities,6424,3.9
+20,1400,20_1400,3465.732712,0.03331624,East Central Kansas,3466,3.3
+20,1500,20_1500,5436.245889,0.041273672,Southeast Kansas,5436,4.1
+22,100,22_100,9060.727714,0.06901627,Coordinating & Development Corporation 1--Shreveport City (North),9061,6.9
+22,101,22_101,6782.189319,0.055416543,Coordinating & Development Corporation 2--Shreveport City (South),6782,5.5
+22,200,22_200,9157.067418,0.056410059,Coordinating & Development Corporation 3--Bossier & Webster Parishes,9157,5.6
+22,300,22_300,13321.83153,0.076692283,Coordinating & Development Corporation 4--Northwest Louisiana,13322,7.7
+22,400,22_400,10065.25536,0.067073748,North Delta Regional Planning & Development District 1--Ouachita Parish,10065,6.7
+22,500,22_500,11850.73866,0.081313916,North Delta Regional Planning & Development District 2--Northeast Louisiana,11851,8.1
+22,600,22_600,7571.605899,0.067716561,Kisatchie Delta Regional Planning & Development District 1,7572,6.8
+22,700,22_700,8425.590168,0.046259169,Kisatchie Delta Regional Planning & Development District 2--Rapides & Vernon Parishes,8426,4.6
+22,800,22_800,5714.236195,0.040730376,Imperial Calcasieu Regional Planning & Development District 1 (North),5714,4.1
+22,900,22_900,7428.759052,0.050492298,Imperial Calcasieu Regional Planning & Development District 2 (South),7429,5
+22,1000,22_1000,6209.42263,0.054313954,Acadiana Regional Development District 1--St. Landry & Evangeline Parishes,6209,5.4
+22,1100,22_1100,6296.52068,0.052684657,Acadiana Regional Development District 2--Acadia & Vermilion Parishes,6297,5.3
+22,1200,22_1200,5191.464658,0.045335926,Acadiana Regional Development District 3--Lafayette Parish (North),5191,4.5
+22,1201,22_1201,4337.040906,0.038627133,Acadiana Regional Development District 4--Lafayette Parish (South),4337,3.9
+22,1300,22_1300,9514.241601,0.053145383,"Acadiana Regional Development District 5--Iberia, St. Mary & St. Martin Parishes",9514,5.3
+22,1400,22_1400,6853.836706,0.064039424,Capital Region Planning Commission 1--Baton Rouge Metropolitan Area (West),6854,6.4
+22,1500,22_1500,2722.198796,0.020603947,Capital Region Planning Commission 2--East Baton Rouge Parish (South),2722,2.1
+22,1501,22_1501,12211.14648,0.07034561,Capital Region Planning Commission 3--Baton Rouge City,12211,7
+22,1502,22_1502,8098.008151,0.059291951,Capital Region Planning Commission 4--East Baton Rouge Parish (North),8098,5.9
+22,1600,22_1600,3840.885604,0.033941891,Capital Region Planning Commission 5--Ascension Parish,3841,3.4
+22,1700,22_1700,6996.229766,0.048711706,Capital Region Planning Commission 6--Livingston & St. Helena Parishes,6996,4.9
+22,1800,22_1800,9870.202508,0.058332749,Capital Region Planning Commission 7--Tangipahoa & Washington Parishes,9870,5.8
+22,1900,22_1900,6751.388819,0.057181485,South Central Planning & Development Commission 1--River Parishes,6751,5.7
+22,2000,22_2000,6265.383408,0.052591465,South Central Planning & Development Commission 2--Lafourche & Assumption Parishes,6265,5.3
+22,2100,22_2100,5098.877587,0.045811441,South Central Planning & Development Commission 3--Terrebonne Parish,5099,4.6
+22,2200,22_2200,3694.767966,0.029459201,Regional Planning Commission 1--St. Tammany Parish (Northwest),3695,2.9
+22,2201,22_2201,6309.741724,0.054759562,Regional Planning Commission 2--St. Tammany Parish (Southeast),6310,5.5
+22,2300,22_2300,4687.907778,0.043410279,Regional Planning Commission 3--Jefferson Parish (North),4688,4.3
+22,2301,22_2301,5620.940892,0.039652724,Regional Planning Commission 4--Jefferson Parish (Central),5621,4
+22,2302,22_2302,9564.750453,0.069572367,Regional Planning Commission 5--Jefferson Parish (West Bank),9565,7
+22,2400,22_2400,8503.863415,0.061438415,Regional Planning Commission 6--New Orleans City (Northeast),8504,6.1
+22,2401,22_2401,10340.94749,0.092251562,Regional Planning Commission 7--New Orleans City (Central),10341,9.2
+22,2402,22_2402,4759.999032,0.038759261,Regional Planning Commission 8--New Orleans City (South),4760,3.9
+22,2500,22_2500,5173.93876,0.043507442,"Regional Planning Commission 9--St. Bernard, Jefferson (South) & Plaquemines Parishes",5174,4.4
+23,100,23_100,2590.395788,0.025820654,Northeast Maine--Aroostook & Washington Counties,2590,2.6
+23,200,23_200,4825.144883,0.031211542,"Northwest Maine--Oxford, Somerset, Franklin & Piscataquis Counties",4825,3.1
+23,300,23_300,3912.172966,0.02594804,Penobscot County,3912,2.6
+23,400,23_400,2945.220319,0.024746265,Kennebec County,2945,2.5
+23,500,23_500,4655.555516,0.028057011,"Coastal Maine Region--Hancock, Knox, Waldo & Lincoln Counties",4656,2.8
+23,600,23_600,2217.887934,0.021054775,Androscoggin County,2218,2.1
+23,700,23_700,2170.296462,0.020611454,Sagadahoc & Cumberland (North) Counties--Bath City & Brunswick,2170,2.1
+23,800,23_800,3811.628965,0.022053488,South Maine--York (West) & Cumberland (West) Counties,3812,2.2
+23,900,23_900,2268.779557,0.018462032,Cumberland (Outside Portland) & York (East) Counties--Biddeford & Saco Cities,2269,1.8
+23,1000,23_1000,2918.198446,0.025992861,"Cumberland County (Southeast)--Portland, South Portland & Westbrook Cities",2918,2.6
+28,100,28_100,6883.356009,0.040569782,North Delta Region--DeSoto County--Southaven City,6883,4.1
+28,200,28_200,10008.57639,0.06655252,"Northeast Region--Marshall, Alcorn, Prentiss, Tippah, Tishomingo & Benton Counties",10009,6.7
+28,300,28_300,10191.27318,0.087065071,"North Delta Region--Panola, Tate, Coahoma, Tallahatchie, Tunica & Quitman Counties",10191,8.7
+28,400,28_400,7821.368298,0.054762155,"Three Rivers Region--Lafayette, Monroe, Itawamba, Chickasaw & Calhoun Counties",7821,5.5
+28,500,28_500,8415.088505,0.058352984,"Three Rivers Region--Lee, Pontotoc & Union Counties--Tupelo City",8415,5.8
+28,600,28_600,11113.671,0.06305638,"Golden Triangle Region--Starkville, Columbus & West Point Cities",11114,6.3
+28,700,28_700,8380.091769,0.068856515,North Central Region,8380,6.9
+28,800,28_800,12015.43077,0.097613811,South Delta Region,12015,9.8
+28,900,28_900,3927.549162,0.038589627,Central Region--Madison & Yazoo Counties,3928,3.9
+28,1000,28_1000,6571.908777,0.060412128,Central Region--Jackson (West & South) & Clinton (South & East) Cities,6572,6
+28,1100,28_1100,12329.06675,0.095702238,Central Region--Jackson City (East & Central),12329,9.6
+28,1200,28_1200,7514.5803,0.070451058,"Central Region--Hinds (West), Warren & Copiah Counties--Vicksburg City",7515,7
+28,1300,28_1300,6597.807156,0.038886927,Central Region--Rankin & Simpson Counties,6598,3.9
+28,1400,28_1400,7305.76567,0.059017848,"East Central Region--Neshoba, Scott, Leake, Jasper, Smith & Kemper Counties",7306,5.9
+28,1500,28_1500,5426.530235,0.047097091,"East Central Region--Lauderdale, Newton & Clarke Counties--Meridian City",5427,4.7
+28,1600,28_1600,12892.62179,0.072983027,Southwest Region,12893,7.3
+28,1700,28_1700,6099.537873,0.046343487,"South Region--Jones, Wayne, Covington, Greene & Jefferson Davis Counties",6100,4.6
+28,1800,28_1800,9772.74757,0.056351166,"South Region--Forrest, Lamar, Marion & Perry Counties--Hattiesburg City",9773,5.6
+28,1900,28_1900,9312.592212,0.065912172,"South Region--Pearl River, Hancock, George & Stone Counties",9313,6.6
+28,2000,28_2000,11796.99174,0.059948266,South Region--Harrison County--Gulfport & Biloxi Cities,11797,6
+28,2100,28_2100,8325.163595,0.058976572,South Region--Jackson County,8325,5.9
+29,100,29_100,4886.615827,0.043558218,Northwest Missouri,4887,4.4
+29,200,29_200,6463.339052,0.056015085,"Buchanan, Andrew & DeKalb Counties",6463,5.6
+29,300,29_300,4865.832815,0.038437244,Northeast Missouri,4866,3.8
+29,400,29_400,5891.612083,0.042134058,"Lincoln, Warren, Audrain, Pike & Montgomery Counties",5892,4.2
+29,500,29_500,4820.129649,0.033487309,"Cole, Callaway, Moniteau & Osage Counties",4820,3.3
+29,600,29_600,5986.86175,0.035448946,Boone County,5987,3.5
+29,700,29_700,4916.711544,0.037078615,"Pettis, Randolph, Saline, Cooper, Howard, Carroll & Chariton Counties",4917,3.7
+29,800,29_800,4704.798188,0.033945967,"Johnson, Lafayette, Ray, Clinton & Caldwell Counties",4705,3.4
+29,901,29_901,2581.145201,0.023791652,Clay County (Northeast),2581,2.4
+29,902,29_902,4331.759776,0.038496163,"Kansas City (North Central), Gladstone City & North Kansas City",4332,3.8
+29,903,29_903,1617.903498,0.015320008,Platte County,1618,1.5
+29,1001,29_1001,14192.39965,0.081615999,Jackson County--Kansas City (Central),14192,8.2
+29,1002,29_1002,4968.899386,0.038171548,Jackson County (North Central),4969,3.8
+29,1003,29_1003,4264.773911,0.032055069,Jackson County (East),4265,3.2
+29,1004,29_1004,2871.721994,0.027230978,Jackson County (South Central),2872,2.7
+29,1005,29_1005,8875.920399,0.056755621,Jackson County--Kansas City (South),8876,5.7
+29,1100,29_1100,3328.159237,0.028185312,Cass & Bates Counties,3328,2.8
+29,1200,29_1200,6184.852898,0.048915248,"Lawrence, Henry, Vernon, Cedar, Barton, St. Clair & Dade Counties",6185,4.9
+29,1300,29_1300,6151.531873,0.054715317,"Laclede, Polk, Benton, Dallas & Hickory Counties",6152,5.5
+29,1400,29_1400,9705.561473,0.06848336,"Pulaski, Camden, Miller & Morgan Counties",9706,6.8
+29,1500,29_1500,3492.434198,0.031818442,"Phelps, Crawford, Dent, Gasconade & Maries Counties",3492,3.2
+29,1600,29_1600,3948.504765,0.038646493,Franklin County,3949,3.9
+29,1701,29_1701,1723.794179,0.016349485,St. Charles County (South),1724,1.6
+29,1702,29_1702,2976.762994,0.021911867,St. Charles County (Northwest),2977,2.2
+29,1703,29_1703,4548.645494,0.034193609,St. Charles County (Northeast),4549,3.4
+29,1801,29_1801,9055.646785,0.068333954,St. Louis County (Northeast),9056,6.8
+29,1802,29_1802,5737.225208,0.044944286,St. Louis County (Northwest),5737,4.5
+29,1803,29_1803,6221.167861,0.057680476,St. Louis County (Inner Ring North),6221,5.8
+29,1804,29_1804,1890.838861,0.016744928,St. Louis County (West),1891,1.7
+29,1805,29_1805,2556.481171,0.022483271,St. Louis County (Central),2556,2.2
+29,1806,29_1806,2012.095275,0.0179234,St. Louis County (Central West),2012,1.8
+29,1807,29_1807,6252.869093,0.037650682,St. Louis County (Inner Ring South),6253,3.8
+29,1808,29_1808,3245.060822,0.02285332,St. Louis County (South),3245,2.3
+29,1901,29_1901,11231.809,0.082104199,St. Louis City (North),11232,8.2
+29,1902,29_1902,10342.96383,0.05414094,St. Louis City (South),10343,5.4
+29,2001,29_2001,4517.114333,0.040004507,Jefferson County (North),4517,4
+29,2002,29_2002,4679.67451,0.04298811,Jefferson County (South),4680,4.3
+29,2100,29_2100,4224.387594,0.034615424,"St. Francois, Washington, Perry & Ste. Genevieve Counties",4224,3.5
+29,2200,29_2200,5508.172285,0.042622074,"Cape Girardeau, Scott & Bollinger Counties",5508,4.3
+29,2300,29_2300,7212.71959,0.063983366,"Dunklin, Stoddard, New Madrid, Pemiscot & Mississippi Counties",7213,6.4
+29,2400,29_2400,5039.748964,0.04702742,"Butler, Ripley, Wayne, Madison, Iron, Reynolds & Carter Counties",5040,4.7
+29,2500,29_2500,7257.906324,0.056938082,"Howell, Texas, Wright, Douglas, Oregon, Ozark & Shannon Counties",7258,5.7
+29,2601,29_2601,5669.845199,0.036342043,"Christian, Greene (Outside Springfield City) & Webster Counties",5670,3.6
+29,2602,29_2602,8934.533663,0.072297089,Greene County--Springfield City (North),8935,7.2
+29,2603,29_2603,5001.201327,0.041843228,Greene County--Springfield City (South),5001,4.2
+29,2700,29_2700,7378.077561,0.050694197,"Taney, Barry, Stone & McDonald Counties",7378,5.1
+29,2800,29_2800,7845.30944,0.044438418,Jasper & Newton Counties,7845,4.4
+30,100,30_100,9324.888746,0.074294046,Northwest Montana--Kalispell City,9325,7.4
+30,200,30_200,12317.48551,0.06155945,West Montana--Missoula City,12317,6.2
+30,300,30_300,6259.909047,0.04071252,Southwest Montana--Butte-Silver Bow & Helena City,6260,4.1
+30,400,30_400,8079.060703,0.053926438,North Central Montana--Great Falls City,8079,5.4
+30,500,30_500,4782.215684,0.036576014,South Central Montana--Bozeman City,4782,3.7
+30,600,30_600,5807.382083,0.038651586,East Montana (Outside Billings City),5807,3.9
+30,700,30_700,4486.862773,0.042218767,Billings City,4487,4.2
+31,100,31_100,2873.58393,0.0258318,North Central & Northwest Nebraska,2874,2.6
+31,200,31_200,4348.320619,0.023572527,Northeast Nebraska,4348,2.4
+31,300,31_300,4737.885629,0.043411475,Central Nebraska,4738,4.3
+31,400,31_400,3108.386433,0.029199883,Southwest Nebraska,3108,2.9
+31,500,31_500,1593.858918,0.013716385,South Central Nebraska,1594,1.4
+31,600,31_600,3478.707428,0.025795117,Southeast Nebraska,3479,2.6
+31,701,31_701,1602.587495,0.015801279,"Dodge, Cass, Saunders & Washington Counties",1603,1.6
+31,702,31_702,2027.135233,0.012196969,Sarpy County--Bellevue City,2027,1.2
+31,801,31_801,6115.422841,0.038175531,Lancaster County--Lincoln City (North),6115,3.8
+31,802,31_802,2673.496475,0.020218601,Lancaster County--Lincoln City (South),2673,2
+31,901,31_901,4032.100092,0.02381753,Douglas County--Omaha City (Northwest),4032,2.4
+31,902,31_902,2705.469799,0.019125618,Douglas County--Omaha City (Southwest),2705,1.9
+31,903,31_903,6425.998431,0.060913991,Douglas County--Omaha City (Northeast),6426,6.1
+31,904,31_904,4305.575649,0.034999352,Douglas County--Omaha City (Southeast),4306,3.5
+37,100,37_100,7466.770899,0.057025816,"Boone High Country--Watauga, Ashe, Yancey, Avery & Mitchell Counties",7467,5.7
+37,200,37_200,7399.112751,0.046496168,"Wilkesboro High Country--Surry, Wilkes & Alleghany Counties",7399,4.6
+37,300,37_300,7597.522409,0.05317755,Rockingham & Stokes Counties,7598,5.3
+37,400,37_400,6070.218924,0.049474049,"Granville, Person & Caswell Counties",6070,4.9
+37,500,37_500,6342.834151,0.0510934,"Franklin, Vance & Warren (West) Counties",6343,5.1
+37,600,37_600,6255.640385,0.059926439,"Halifax, Hertford, Northampton & Warren (East) Counties",6256,6
+37,700,37_700,5769.648078,0.048855733,Northeast Albemarle Sound Region,5770,4.9
+37,800,37_800,4844.957394,0.047750041,South & West Albemarle Sound & Northern Outer Banks Regions,4845,4.8
+37,900,37_900,8792.241823,0.056609608,Nash & Edgecombe Counties--Rocky Mount City,8792,5.7
+37,1000,37_1000,4428.791366,0.042001043,Wilson & Greene Counties--Wilson City,4429,4.2
+37,1100,37_1100,6253.578188,0.03382019,Johnston County,6254,3.4
+37,1201,37_1201,4998.345412,0.035649147,Raleigh City (South & Central),4998,3.6
+37,1202,37_1202,4524.905886,0.032504052,Raleigh City (North),4525,3.3
+37,1203,37_1203,823.4168167,0.007685573,"Wake County (Northeast)--Raleigh City (Northeast), Wake Forest & Rolesville Towns",823,0.8
+37,1204,37_1204,4148.806948,0.032611202,"Wake County (East)--Raleigh City (East), Knightdale & Garner (North) Towns",4149,3.3
+37,1205,37_1205,5553.248651,0.047345534,Wake County (Southeast)--Garner (South) & Fuquay-Varina Towns,5553,4.7
+37,1206,37_1206,1943.290794,0.017306471,Wake County (Northwest)--Raleigh City (Northwest) & Morrisville Town,1943,1.7
+37,1207,37_1207,2848.114715,0.020753203,Wake County (West Central)--Cary Town,2848,2.1
+37,1208,37_1208,1620.462271,0.014077239,Wake County (Southwest)--Apex & Holly Springs Towns,1620,1.4
+37,1301,37_1301,6069.736113,0.038607016,Durham County (South)--Durham City (South),6070,3.9
+37,1302,37_1302,3975.16888,0.028665228,Durham County (North)--Durham City (North),3975,2.9
+37,1400,37_1400,3850.364252,0.026824033,Orange County--Chapel Hill Town,3850,2.7
+37,1500,37_1500,3767.534494,0.028257696,Chatham & Lee Counties,3768,2.8
+37,1600,37_1600,7606.144923,0.047095224,Alamance County--Burlington City,7606,4.7
+37,1701,37_1701,7250.283405,0.051334079,Greensboro City (North),7250,5.1
+37,1702,37_1702,6625.443732,0.056929111,Greensboro City (South),6625,5.7
+37,1703,37_1703,2351.266325,0.019317087,Guilford County (North)--Summerfield Town,2351,1.9
+37,1704,37_1704,6640.576478,0.046750791,Guilford County (South)--High Point City,6641,4.7
+37,1801,37_1801,6667.155401,0.057456903,Winston-Salem City (North),6667,5.7
+37,1802,37_1802,7367.714868,0.056939088,Winston-Salem City (South),7368,5.7
+37,1803,37_1803,4580.106628,0.034489296,Forsyth County (Outside Winston-Salem City)--Kernersville Town & Clemmons Village,4580,3.4
+37,1900,37_1900,5873.577341,0.05403715,"Davie, Yadkin & Iredell (North) Counties",5874,5.4
+37,2000,37_2000,4883.048184,0.04022954,Caldwell & Alexander Counties,4883,4
+37,2100,37_2100,5847.223221,0.0426776,Burke & McDowell Counties,5847,4.3
+37,2201,37_2201,6057.658959,0.046907481,Buncombe County (Southeast)--Asheville City,6058,4.7
+37,2202,37_2202,6019.922803,0.048817281,Buncombe County (Northwest),6020,4.9
+37,2300,37_2300,6673.86389,0.058312871,"Haywood, Madison, Swain, Graham & Jackson (North) Counties",6674,5.8
+37,2400,37_2400,6501.88916,0.060728129,"Jackson (South), Macon, Cherokee & Clay Counties",6502,6.1
+37,2500,37_2500,5549.883138,0.037542012,Henderson & Transylvania Counties,5550,3.8
+37,2600,37_2600,7134.928375,0.050208766,"Rutherford, Cleveland (West) & Polk Counties--Shelby City",7135,5
+37,2700,37_2700,5867.21055,0.045228373,Lincoln & Cleveland (East) Counties,5867,4.5
+37,2800,37_2800,6215.799476,0.038902551,Catawba County--Hickory City,6216,3.9
+37,2900,37_2900,5920.689774,0.041552059,Iredell (South)--Mooresville Town & Statesville City,5921,4.2
+37,3001,37_3001,4242.720105,0.040731225,Gaston County (Northwest)--Mount Holly City,4243,4.1
+37,3002,37_3002,5179.519924,0.046873566,Gaston County (Southeast)--Gastonia & Belmont Cities,5180,4.7
+37,3101,37_3101,6291.362623,0.053432714,Charlotte City (Central),6291,5.3
+37,3102,37_3102,10042.58359,0.081141986,Charlotte City (Northwest),10043,8.1
+37,3103,37_3103,5088.267157,0.041521404,Charlotte City (Northeast),5088,4.2
+37,3104,37_3104,4672.484255,0.030592909,Charlotte City (South),4672,3.1
+37,3105,37_3105,6380.124481,0.052147612,Charlotte City (Southwest),6380,5.2
+37,3106,37_3106,3614.809269,0.023818439,"Mecklenburg County (North)--Huntersville, Cornelius & Davidson Towns",3615,2.4
+37,3107,37_3107,4713.566541,0.038685285,Mecklenburg County (East)--Mint Hill & Matthews (North) Towns,4714,3.9
+37,3108,37_3108,3272.254891,0.028201053,Mecklenburg County (South)--Matthews Town (South),3272,2.8
+37,3200,37_3200,4831.662905,0.032596033,"Cabarrus County (West)--Concord, Kannapolis Cities & Harrisburg Town",4832,3.3
+37,3300,37_3300,3621.276483,0.033907048,Stanley & Cabarrus (East) Counties,3621,3.4
+37,3400,37_3400,6217.036355,0.043882739,Rowan County,6217,4.4
+37,3500,37_3500,6776.094443,0.040255576,Davidson County,6776,4
+37,3600,37_3600,6823.169313,0.046000436,Randolph County,6823,4.6
+37,3700,37_3700,4991.043978,0.040614214,Moore & Montgomery Counties,4991,4.1
+37,3800,37_3800,6185.602392,0.049173176,Harnett County,6186,4.9
+37,3900,37_3900,7395.841166,0.055567421,Sampson & Duplin Counties,7396,5.6
+37,4000,37_4000,5287.660015,0.040839627,Wayne County,5288,4.1
+37,4100,37_4100,5423.003701,0.046888337,"Lenoir, Onslow (North) & Jones Counties",5423,4.7
+37,4200,37_4200,8398.136535,0.04690833,Pitt County--Greenville City,8398,4.7
+37,4300,37_4300,4740.733267,0.044244964,Craven County,4741,4.4
+37,4400,37_4400,5673.458803,0.042869844,"Carteret, Beaufort & Pamlico Counties",5673,4.3
+37,4500,37_4500,4985.735637,0.034762435,Onslow County (South)--Jacksonville City,4986,3.5
+37,4600,37_4600,3649.28306,0.033616822,Pender & New Hanover (North) Counties,3649,3.4
+37,4700,37_4700,7208.525554,0.04396553,New Hanover County (South)--Wilmington City,7209,4.4
+37,4800,37_4800,4719.520252,0.039785657,Brunswick County,4720,4
+37,4900,37_4900,5457.409985,0.050385814,"Columbus, Bladen & Robeson (East) Counties",5457,5
+37,5001,37_5001,6265.738975,0.054755088,Cumberland County (Central)--Fayetteville City (Central & East),6266,5.5
+37,5002,37_5002,3732.278007,0.034402303,Cumberland County (East)--Hope Mills & Spring Lake Towns,3732,3.4
+37,5003,37_5003,4323.580014,0.039092038,Cumberland County (West)--Fayetteville City (West),4324,3.9
+37,5100,37_5100,7804.103275,0.064442329,Robeson County (West)--Lumberton City,7804,6.4
+37,5200,37_5200,8264.835014,0.062167298,"Hoke, Richmond & Scotland Counties",8265,6.2
+37,5300,37_5300,4348.203357,0.035561465,Union (East) & Anson Counties--Monroe City,4348,3.6
+37,5400,37_5400,2513.658434,0.020585664,Union County (West)--Indian Trail & Stallings Towns,2514,2.1
+40,100,40_100,8437.948484,0.04996087,Northeast Oklahoma,8438,5
+40,200,40_200,7805.579809,0.069098316,"Cherokee, Sequoyah & Adair Counties",7806,6.9
+40,300,40_300,9742.365233,0.054145671,Southeast Oklahoma,9742,5.4
+40,400,40_400,4644.272456,0.041312918,Southwest Oklahoma,4644,4.1
+40,500,40_500,3556.03219,0.030429279,Panhandle & Northwest Oklahoma,3556,3
+40,601,40_601,6433.349513,0.059403896,Comanche County (Central)--Lawton City,6433,5.9
+40,602,40_602,6208.215498,0.053344451,"Stephens, Caddo, Comanche (North), Tillman, Jefferson & Cotton Counties",6208,5.3
+40,701,40_701,3999.862862,0.036610126,"Carter, Garvin, Murray, Love & Pontotoc (West) Counties",4000,3.7
+40,702,40_702,6800.365151,0.055894744,"Bryan, Pontotoc (East), Marshall, Atoka, Johnston & Coal Counties--Ada City",6800,5.6
+40,800,40_800,3515.498075,0.027769716,Canadian County--Oklahoma City (West),3515,2.8
+40,900,40_900,8736.85089,0.032131083,"Cleveland County--Norman, Oklahoma City (South) & Moore Cities",8737,3.2
+40,1001,40_1001,6690.313689,0.058412552,Oklahoma County (Southwest)--Oklahoma City (West Central),6690,5.8
+40,1002,40_1002,4885.279699,0.031355817,Oklahoma County (Northwest)--Oklahoma City (Northwest Central) & Bethany Cities,4885,3.1
+40,1003,40_1003,2979.541529,0.020658376,Oklahoma County (Northeast)--Edmond & Oklahoma City (North Central) Cities,2980,2.1
+40,1004,40_1004,5230.575583,0.042987537,"Oklahoma County (East)--Midwest, Del & Oklahoma City (Northeast) Cities",5231,4.3
+40,1005,40_1005,9245.490143,0.072526,Oklahoma County (Southeast)--Oklahoma City (East Central),9245,7.3
+40,1006,40_1006,5919.974025,0.049145065,Oklahoma County (Central)--Oklahoma City (Central),5920,4.9
+40,1101,40_1101,4936.906597,0.045000557,"Grady, McClain & Pottawatomie (South) Counties",4937,4.5
+40,1102,40_1102,5127.840792,0.0386337,"Pottawatomie (North), Logan & Lincoln Counties--Shawnee City",5128,3.9
+40,1201,40_1201,7929.299959,0.038181782,Tulsa County (Central)--Tulsa City (Central),7929,3.8
+40,1202,40_1202,6432.647571,0.030939268,Tulsa County (Southeast)--Tulsa (Southeast) & Broken Arrow (West) Cities,6433,3.1
+40,1203,40_1203,6470.718862,0.05298882,Tulsa County (North)--Tulsa (North) & Owasso Cities,6471,5.3
+40,1204,40_1204,7472.639603,0.042703118,"Tulsa (West), Creek (Northeast) & Osage (Southeast) Counties--Tulsa City (West)",7473,4.3
+40,1301,40_1301,3275.298096,0.027284659,Rogers (Central) & Wagoner (West) Counties--Claremore City,3275,2.7
+40,1302,40_1302,7730.033323,0.051232751,"Muskogee, Okmulgee, Wagoner (East) & McIntosh Counties",7730,5.1
+40,1400,40_1400,4628.008993,0.03811973,"Garfield, Kay & Noble Counties--Enid City",4628,3.8
+40,1501,40_1501,7211.541208,0.047910079,"Payne, Seminole, Creek (Southwest), Hughes & Okfuskee Counties--Stillwater City",7212,4.8
+40,1601,40_1601,4552.127647,0.045517024,"Washington, Osage (North & West), Pawnee & Creek (Northwest) Counties",4552,4.6
+45,101,45_101,9141.885955,0.046485074,Pickens & Oconee Counties--Easley & Clemson Cities,9142,4.6
+45,102,45_102,3769.562363,0.034392316,Greenville County (North)--Greer City (North & West) & Taylors (Central & East),3770,3.4
+45,103,45_103,8911.320677,0.051406011,Greenville County (North Central & Outside Greenville City)--Wade Hampton & Berea,8911,5.1
+45,104,45_104,4701.800699,0.042113714,Greenville County (Central)--Greenville & Mauldin Cities,4702,4.2
+45,105,45_105,7182.770202,0.046256416,"Greenville (South) & Laurens Counties--Simpsonville, Laurens & Clinton Cities",7183,4.6
+45,200,45_200,8345.070359,0.043306757,Anderson County--Anderson City,8345,4.3
+45,301,45_301,4638.552486,0.040158428,Spartanburg County (Central)--Spartanburg City,4639,4
+45,302,45_302,9447.774643,0.053292189,Spartanburg County (Outside Spartanburg City)--Greer City (East),9448,5.3
+45,400,45_400,7273.11843,0.046594486,"Cherokee, Newberry, Chester & Union Counties",7273,4.7
+45,501,45_501,3733.380512,0.032988153,York County (West & Outside Rock Hill City),3733,3.3
+45,502,45_502,5462.374406,0.043658521,York County (East)--Rock Hill City & Fort Mill Town,5462,4.4
+45,601,45_601,6561.806291,0.038907614,Lexington (South & West) & Saluda Counties--Lexington Town & Red Bank,6562,3.9
+45,602,45_602,4111.844832,0.03225179,"Lexington County (North & East)--West Columbia, Cayce Cities, Irmo Town & Seven Oaks",4112,3.2
+45,603,45_603,5499.853849,0.031677619,Richland (North) & Fairfield Counties--Forest Acres City & Dentsville,5500,3.2
+45,604,45_604,13223.33698,0.062156942,Richland County (Central)--Columbia City,13223,6.2
+45,605,45_605,5398.125262,0.049180087,"Kershaw, Richland (South) & Calhoun Counties",5398,4.9
+45,700,45_700,9321.784549,0.061341885,"Lancaster, Chesterfield & Marlboro Counties",9322,6.1
+45,800,45_800,10649.08334,0.056220397,"Sumter, Clarendon, Williamsburg & Lee Counties--Sumter City",10649,5.6
+45,900,45_900,11351.08787,0.05463209,Florence & Darlington Counties--Florence City,11351,5.5
+45,1000,45_1000,7620.015486,0.060609438,"Georgetown, Marion & Dillon Counties",7620,6.1
+45,1101,45_1101,6476.896831,0.047057617,Horry County (West & North)--Conway City & Red Hill,6477,4.7
+45,1102,45_1102,7078.83926,0.045502227,"Horry County (Southeast)--Myrtle Beach, North Myrtle Beach Cities & Socastee (East)",7079,4.6
+45,1201,45_1201,5293.344058,0.035665352,Dorchester (North & West) & Berkeley (Southwest) Counties--Summerville Town & Ladson,5293,3.6
+45,1202,45_1202,8855.856065,0.042627197,Charleston (South & West) & Berkeley (South) Counties--Charleston City,8856,4.3
+45,1203,45_1203,5569.765144,0.037432909,Charleston (Northeast) & Berkeley (North & East) Counties--Mount Pleasant Town,5570,3.7
+45,1204,45_1204,10783.87746,0.05204216,"Charleston, Berkeley & Dorchester Counties--North Charleston City",10784,5.2
+45,1300,45_1300,13091.66946,0.0662819,"Orangeburg, Colleton, Barnwell, Hampton, Bamberg & Allendale Counties",13092,6.6
+45,1400,45_1400,9941.65553,0.048434701,"Beaufort & Jasper Counties--Hilton Head Island, Bluffton Towns & Beaufort City",9942,4.8
+45,1500,45_1500,11577.89374,0.06062682,Aiken & Edgefield Counties--Aiken & North Augusta Cities,11578,6.1
+45,1600,45_1600,5127.467106,0.049368851,"Greenwood, Abbeville & McCormick Counties",5127,4.9
+46,100,46_100,7117.564764,0.039648626,West South Dakota--Rapid City,7118,4
+46,200,46_200,8694.43587,0.079869434,Lakota Region,8694,8
+46,300,46_300,3487.985533,0.026554126,Northeast South Dakota,3488,2.7
+46,400,46_400,3277.038051,0.024902297,Jackrabbit Region,3277,2.5
+46,500,46_500,2176.581403,0.017058214,Southeast South Dakota (Outside Sioux Falls City),2177,1.7
+46,600,46_600,3607.88213,0.022163542,Sioux Falls City,3608,2.2
+47,100,47_100,6306.61697,0.044627137,"Northwest Tennessee--Gibson, Dyer, Obion, Crockett & Lake Counties",6307,4.5
+47,200,47_200,5849.466198,0.04165135,"Land Between the Lakes--Weakley, Henry, Carroll, Humphreys, Benton & Houston Counties",5849,4.2
+47,300,47_300,6340.108284,0.032108258,Montgomery & Stewart Counties--Clarksville City,6340,3.2
+47,400,47_400,6096.331856,0.033545591,"Robertson, Dickson, Cheatham & Hickman Counties",6096,3.4
+47,500,47_500,3319.174585,0.01953131,Sumner County--Hendersonville City,3319,2
+47,600,47_600,5289.203416,0.042739037,"Warren, Macon, Smith, DeKalb, Cannon & Trousdale Counties",5289,4.3
+47,700,47_700,5906.553695,0.048578072,"Putnam, Overton, Jackson, Clay & Pickett Counties",5907,4.9
+47,800,47_800,4846.210707,0.043618515,"Cumberland, White, Fentress & Van Buren Counties",4846,4.4
+47,900,47_900,5380.964357,0.045193307,"Campbell, Claiborne, Scott, Morgan & Hancock Counties",5381,4.5
+47,1000,47_1000,4145.8852,0.038485412,Hawkins & Sullivan (Northwest) Counties--Kingsport City,4146,3.8
+47,1100,47_1100,3921.936923,0.036370561,Sullivan County (Southeast)--Bristol City,3922,3.6
+47,1200,47_1200,7649.42187,0.047299072,"Greene, Carter, Unicoi & Johnson Counties",7649,4.7
+47,1300,47_1300,5489.040374,0.043554876,Washington County--Johnson City,5489,4.4
+47,1400,47_1400,4894.815774,0.039359473,"Hamblen, Cocke & Grainger Counties",4895,3.9
+47,1500,47_1500,6147.940593,0.041645538,Sevier & Jefferson Counties,6148,4.2
+47,1601,47_1601,4704.607513,0.044741407,"Anderson, Union & Knox (North) Counties--Oak Ridge (East) & Clinton Cities",4705,4.5
+47,1602,47_1602,2640.713812,0.024356192,Knox County (East),2641,2.4
+47,1603,47_1603,6664.917835,0.037047267,Knoxville City,6665,3.7
+47,1604,47_1604,3422.623469,0.022917708,Knox County (West)--Farragut Town,3423,2.3
+47,1700,47_1700,4398.863724,0.034791335,Blount County,4399,3.5
+47,1800,47_1800,5376.275034,0.035361532,"Roane, Loudon & Monroe Counties--Oak Ridge City (West)",5376,3.5
+47,1900,47_1900,6969.114129,0.039895598,"Bradley, McMinn & Polk Counties--Cleveland City",6969,4
+47,2001,47_2001,6614.099016,0.054087892,Chattanooga City (South & Central),6614,5.4
+47,2002,47_2002,3060.342635,0.028017696,Hamilton County (South)--Chattanooga (North) & Red Bank Cities,3060,2.8
+47,2003,47_2003,3427.306609,0.027811548,Hamilton County (North)--Soddy-Daisy City,3427,2.8
+47,2100,47_2100,3951.001985,0.035451572,"Rhea, Marion, Sequatchie, Grundy, Bledsoe & Meigs Counties",3951,3.5
+47,2200,47_2200,4789.437881,0.035595596,"Coffee, Franklin, Lincoln & Moore Counties",4789,3.6
+47,2300,47_2300,4152.512152,0.034029111,Wilson County--Lebanon & Mount Juliet Cities,4153,3.4
+47,2401,47_2401,2956.222602,0.022039078,Rutherford County (North)--Smyrna Town & La Vergne City,2956,2.2
+47,2402,47_2402,4058.248934,0.02739745,Rutherford County (South)--Murfreesboro City,4058,2.7
+47,2501,47_2501,6829.367728,0.042835578,Nashville-Davidson (East),6829,4.3
+47,2502,47_2502,4571.490518,0.040986765,Nashville-Davidson (North),4571,4.1
+47,2503,47_2503,6484.92257,0.055911474,Nashville-Davidson (Central),6485,5.6
+47,2504,47_2504,4521.185018,0.033286225,Nashville-Davidson (Southeast),4521,3.3
+47,2505,47_2505,3774.59257,0.025043946,Nashville-Davidson (Southwest),3775,2.5
+47,2600,47_2600,2856.445583,0.014451317,Williamson County--Franklin & Brentwood Cities,2856,1.4
+47,2700,47_2700,5306.099528,0.032522768,"Maury, Bedford & Marshall Counties",5306,3.3
+47,2800,47_2800,3662.875869,0.034619607,"Lawrence, Giles, Wayne, Lewis & Perry Counties",3663,3.5
+47,2900,47_2900,6356.011692,0.046936262,"Henderson, Hardeman, McNairy, Hardin, Haywood & Decatur Counties",6356,4.7
+47,3000,47_3000,5663.068516,0.04815324,Madison & Chester Counties--Jackson City,5663,4.8
+47,3100,47_3100,5046.923094,0.039705072,"Tipton, Fayette & Lauderdale Counties",5047,4
+47,3201,47_3201,11729.94437,0.081049219,Memphis City (Central Riverside),11730,8.1
+47,3202,47_3202,8126.653277,0.061178625,Memphis City (Central Midtown),8127,6.1
+47,3203,47_3203,6323.42044,0.053419329,Memphis (North) & Bartlett (Southwest) Cities,6323,5.3
+47,3204,47_3204,1985.965175,0.019123811,Shelby County (North)--Bartlett (North & East) & Millington Cities,1986,1.9
+47,3205,47_3205,2577.161255,0.024611864,"Memphis (East), Lakeland Cities & Arlington Town (South)",2577,2.5
+47,3206,47_3206,2917.702789,0.022117583,Shelby County (Southeast)--Collierville Town & Germantown City,2918,2.2
+47,3207,47_3207,4871.004267,0.04085375,Memphis City (Southeast),4871,4.1
+47,3208,47_3208,6891.174891,0.061529022,Memphis City (Southwest),6891,6.2
+48,100,48_100,7335.514474,0.038927738,Panhandle Regional Planning Commission (Outside Potter & Randall Counties),7336,3.9
+48,200,48_200,8392.137119,0.069578148,Panhandle Regional Planning Commission--Potter County--Amarillo City (North),8392,7
+48,300,48_300,4712.577018,0.036789376,Panhandle Regional Planning Commission--Randall County--Amarillo City (South),4713,3.7
+48,400,48_400,8305.576295,0.060741741,South Plains Association of Governments (Outside Lubbock County),8306,6.1
+48,501,48_501,7618.92922,0.065980189,South Plains Association of Governments--Lubbock County--Lubbock City (Central),7619,6.6
+48,502,48_502,6799.724558,0.038021244,South Plains Association of Governments--Lubbock County--Lubbock City (Outer),6800,3.8
+48,600,48_600,6745.534939,0.044364128,North Texas Regional Planning Commission (Outside Wichita County) & Wise County,6746,4.4
+48,700,48_700,8613.369284,0.067497149,North Texas Regional Planning Commission--Wichita County--Wichita Falls City,8613,6.7
+48,800,48_800,8155.630902,0.041933116,"Texoma COG--Grayson, Cooke & Fannin Counties",8156,4.2
+48,900,48_900,7431.44778,0.04272088,"Hunt & Rockwall Counties--Rockwall, Greenville & Dallas (Far Northeast) Cities",7431,4.3
+48,1000,48_1000,8861.878633,0.054380488,Ark-Tex COG (West),8862,5.4
+48,1100,48_1100,7305.221558,0.060072761,Ark-Tex COG (East)--Bowie & Cass Counties,7305,6
+48,1200,48_1200,6274.034382,0.052380752,"East Texas COG (Northeast)--Harrison, Upshur & Marion Counties",6274,5.2
+48,1300,48_1300,5525.011818,0.045727797,"East Texas COG (Northwest)--Van Zandt, Wood, Camp & Rains Counties",5525,4.6
+48,1400,48_1400,4573.442057,0.041647062,Kaufman County,4573,4.2
+48,1501,48_1501,3799.7637,0.035108846,East Texas COG (Central)--Smith County (Outside Tyler City),3800,3.5
+48,1502,48_1502,6262.660345,0.05559339,East Texas COG (Central)--Smith County (West)--Tyler City,6263,5.6
+48,1600,48_1600,7568.500044,0.060708921,East Texas COG (Central)--Gregg County--Longview City,7569,6.1
+48,1700,48_1700,7724.826701,0.061389562,"East Texas COG (Southeast)--Rusk, Cherokee & Panola Counties",7725,6.1
+48,1800,48_1800,7871.530846,0.062291902,East Texas COG (Southwest)--Henderson & Anderson Counties,7872,6.2
+48,1901,48_1901,3629.662846,0.031172151,"Collin County (Southwest)--Dallas (North), Plano (South) & Richardson (North) Cities",3630,3.1
+48,1902,48_1902,2542.122435,0.021590583,Collin County (Southwest)--Plano City (West),2542,2.2
+48,1903,48_1903,3450.669131,0.030865552,Collin County (Southwest)--Plano City (Central),3451,3.1
+48,1904,48_1904,3552.180632,0.027729193,"Collin County (South Central)--Allen, Murphy, Plano (East) & Parker Cities",3552,2.8
+48,1905,48_1905,2074.898477,0.015498001,Collin County (Central)--McKinney City,2075,1.5
+48,1906,48_1906,1896.268878,0.01575027,Collin County (Northwest)--Frisco City (East) & Prosper Town,1896,1.6
+48,1907,48_1907,3474.277306,0.026261911,Collin County (East),3474,2.6
+48,2001,48_2001,3156.563999,0.027364193,Denton County (Far Southeast)--Carrollton (North) & Dallas (North) Cities,3157,2.7
+48,2002,48_2002,2052.606376,0.018504202,Denton County (Southeast)--Lewisville City,2053,1.9
+48,2003,48_2003,1335.165719,0.010422041,Denton County (South Central)--Flower Mound Town & Highland Village City,1335,1
+48,2004,48_2004,1777.343569,0.013858001,"Denton County (East Central)--Frisco (West), The Colony & Little Elm Cities",1777,1.4
+48,2005,48_2005,6418.805601,0.053088345,Denton County (Central)--Denton (Central) & Corinth Cities,6419,5.3
+48,2006,48_2006,4611.607859,0.036871631,Denton County (North & West)--Denton City (Outer),4612,3.7
+48,2101,48_2101,5206.457088,0.032854773,Ellis County,5206,3.3
+48,2102,48_2102,6575.790662,0.042240765,Johnson County,6576,4.2
+48,2200,48_2200,6759.311668,0.051564053,"North Central Texas COG (West)--Hood, Erath, Palo Pinto & Somervell Counties",6759,5.2
+48,2301,48_2301,2940.789378,0.026280668,Dallas County (Northeast)--Rowlett & Garland (Northeast) Cities,2941,2.6
+48,2302,48_2302,6522.549644,0.060287666,Dallas County (Northeast)--Garland City (South),6523,6
+48,2303,48_2303,5717.87526,0.045624837,Dallas County (East)--Mesquite City (Central & Southeast),5718,4.6
+48,2304,48_2304,6789.743023,0.067373671,Dallas County (Southeast)--Dallas City (Southeast),6790,6.7
+48,2305,48_2305,8022.597659,0.055831958,Dallas (East) & Mesquite (West) Cities--South of I-30 & West of I-635,8023,5.6
+48,2306,48_2306,6916.529559,0.049994677,Dallas (Northeast) & Mesquite (North) Cities--North of I-30 & West of I-635,6917,5
+48,2307,48_2307,5341.21806,0.04295139,Dallas City (Northeast)--East of US-75,5341,4.3
+48,2308,48_2308,4549.451298,0.041642375,Dallas County (Northeast)--Garland (Northwest) & Richardson (East) Cities,4549,4.2
+48,2309,48_2309,3896.365745,0.032407071,Dallas (Far North) & Richardson (Southwest) Cities,3896,3.2
+48,2310,48_2310,3846.232289,0.033832882,"Dallas (Far North), Carrollton (Southeast) Cities & Addison Town--North of I-635",3846,3.4
+48,2311,48_2311,2303.798285,0.020833896,Dallas City (North)--South of I-635 & West of US-75,2304,2.1
+48,2312,48_2312,3313.597716,0.030418906,"Dallas (West Central), University Park Cities & Highland Park Town",3314,3
+48,2313,48_2313,4616.369768,0.040292036,Dallas City (Downtown)--North of I-30,4616,4
+48,2314,48_2314,11581.06564,0.086880393,Dallas City (East Central)--South of I-30 & East of I-35E,11581,8.7
+48,2315,48_2315,7975.770735,0.068029985,Dallas City (West Central)--East of Loop TX-12 & West of I-35E,7976,6.8
+48,2316,48_2316,5963.628548,0.05627472,Dallas City (South Central)--North of I-20 & West of I-35E,5964,5.6
+48,2317,48_2317,4262.898764,0.039344613,Dallas County (South)--DeSoto & Lancaster Cities,4263,3.9
+48,2318,48_2318,4552.463785,0.040054869,Dallas County (Southwest)--Cedar Hill & Duncanville Cities,4552,4
+48,2319,48_2319,6738.148431,0.057647713,Dallas County (West)--Grand Prairie (Central) & Dallas (Southwest) Cities,6738,5.8
+48,2320,48_2320,4622.024088,0.042683069,Dallas County (West)--Irving (South) & Grand Prairie (North) Cities,4622,4.3
+48,2321,48_2321,4662.696559,0.039040949,Dallas County (Northwest)--Irving (Central) & Dallas (Northwest) Cities,4663,3.9
+48,2322,48_2322,2326.866788,0.020575646,"Dallas County (Northwest)--Irving (North), Coppell & Carrollton (Southwest) Cities",2327,2.1
+48,2400,48_2400,4640.732132,0.038868684,Parker County,4641,3.9
+48,2501,48_2501,2091.699409,0.018749511,"Tarrant County (Northeast)--Grapevine, Southlake & Colleyville Cities",2092,1.9
+48,2502,48_2502,5931.699978,0.049698528,Tarrant County (East)--Euless (South & West) & Arlington (North) Cities,5932,5
+48,2503,48_2503,9285.732399,0.064958863,Tarrant County (East)--Arlington (East) & Grand Prairie (West Central) Cities,9286,6.5
+48,2504,48_2504,4390.560765,0.040268719,Tarrant County (Southeast)--Arlington (Southeast) & Grand Prairie (Southwest) Cities,4391,4
+48,2505,48_2505,2941.035334,0.026538573,Tarrant County (Southeast)--Mansfield (North) & Arlington (Southwest) Cities,2941,2.7
+48,2506,48_2506,4409.229991,0.0367584,Tarrant County (South Central)--Fort Worth City (Southeast)--South of I-20,4409,3.7
+48,2507,48_2507,6112.545168,0.05038812,Tarrant County (East)--Arlington City (West)--South of I-30 & East of Loop I-820,6113,5
+48,2508,48_2508,9914.162438,0.08644174,"Fort Worth City (East Central)--South of I-30, East of I-35W & Inside Loop I-820",9914,8.6
+48,2509,48_2509,6230.322809,0.042293143,Fort Worth (Northeast) & Hurst (South) Cities--North of I-30,6230,4.2
+48,2510,48_2510,1998.41305,0.016622026,Tarrant County (North)--North Richland Hills (North) & Keller Cities,1998,1.7
+48,2511,48_2511,2870.033863,0.023627626,Fort Worth City (North)--East of I-35W & West of US-377,2870,2.4
+48,2512,48_2512,6503.12269,0.056647751,Fort Worth City (North Central) & Haltom City (North)--Inside Loop I-820,6503,5.7
+48,2513,48_2513,5636.781668,0.040986191,Fort Worth City (South Central) & Edgecliff Village Town,5637,4.1
+48,2514,48_2514,4948.145377,0.037708241,Tarrant County (Southwest)--Fort Worth (Southwest) & Benbrook Cities,4948,3.8
+48,2515,48_2515,4561.04552,0.044334829,Tarrant County (West)--Fort Worth City (West),4561,4.4
+48,2516,48_2516,2527.345983,0.020709062,Tarrant County (Northwest)--Fort Worth (Northwest) & Saginaw Cities,2527,2.1
+48,2600,48_2600,10701.71221,0.057629976,West Central Texas COG (Outside Taylor County),10702,5.8
+48,2700,48_2700,5440.484074,0.040141251,West Central Texas COG--Taylor County--Abilene City,5440,4
+48,2800,48_2800,4788.083156,0.048171591,Concho Valley COG & Permian Basin Regional Planning Commission (East),4788,4.8
+48,2900,48_2900,6739.222381,0.057317797,Concho Valley COG--Tom Green County--San Angelo City,6739,5.7
+48,3000,48_3000,4688.085842,0.030367432,Permian Basin Regional Planning Commission (Central)--Midland County--Midland City,4688,3
+48,3100,48_3100,5738.801583,0.037378836,Permian Basin Regional Planning Commission (Central)--Ector County--Odessa City,5739,3.7
+48,3200,48_3200,5931.476497,0.052027345,Rio Grande COG & Permian Basin Regional Planning Commission (West),5931,5.2
+48,3301,48_3301,10525.44635,0.065303639,El Paso County (Outside El Paso City)--Socorro & Horizon Cities,10525,6.5
+48,3302,48_3302,9900.601584,0.058305994,El Paso City (East),9901,5.8
+48,3303,48_3303,11614.20054,0.077632144,El Paso City (Southeast),11614,7.8
+48,3304,48_3304,11022.4666,0.093382172,El Paso City (Central),11022,9.3
+48,3305,48_3305,9400.572888,0.065227591,El Paso City (North),9401,6.5
+48,3306,48_3306,7991.646164,0.056202602,El Paso City (Northwest),7992,5.6
+48,3400,48_3400,6201.760135,0.0359549,"Central Texas COG (West), Burnet & Llano Counties",6202,3.6
+48,3501,48_3501,6942.669415,0.042186134,Central Texas COG--Bell County (West)--Killeen & Harker Heights Cities,6943,4.2
+48,3502,48_3502,5941.198115,0.03603635,"Central Texas COG--Bell County (North, East & South)--Temple & Belton Cities",5941,3.6
+48,3601,48_3601,6902.573896,0.04661518,Brazos Valley COG (Outside Brazos County) & Milam County,6903,4.7
+48,3602,48_3602,8679.608327,0.042915441,Brazos Valley COG--Brazos County--College Station & Bryan Cities,8680,4.3
+48,3700,48_3700,9045.20095,0.056375995,Heart of Texas COG (Outside McLennan County) & Navarro County,9045,5.6
+48,3801,48_3801,6936.989437,0.065474533,Heart of Texas COG--McLennan County--Waco City (Central),6937,6.5
+48,3802,48_3802,4977.251956,0.036109,"Heart of Texas COG--McLennan County--Waco (Outer), Hewitt & Robinson Cities",4977,3.6
+48,3900,48_3900,9179.034397,0.059677474,Deep East Texas COG (West) & Walker County,9179,6
+48,4000,48_4000,7357.339699,0.047370479,Deep East Texas COG (Central)--Angelina & Nacogdoches Counties,7357,4.7
+48,4100,48_4100,7240.876779,0.062236663,Deep East Texas COG (East),7241,6.2
+48,4200,48_4200,6423.357842,0.0461476,Orange & Hardin Counties,6423,4.6
+48,4301,48_4301,7063.962999,0.058819402,Jefferson County (North Central)--Beaumont City,7064,5.9
+48,4302,48_4302,6229.559163,0.048763268,Jefferson County (Outside Beaumont City)--Port Arthur City,6230,4.9
+48,4400,48_4400,4164.717845,0.03798759,Houston-Galveston Area Council--Liberty & Chambers Counties,4165,3.8
+48,4501,48_4501,7799.688352,0.054678135,Houston-Galveston Area Council--Montgomery County (Northeast)--Conroe City (East),7800,5.5
+48,4502,48_4502,2876.497236,0.022666397,Houston-Galveston Area Council--Montgomery County (West)--Conroe City (West),2876,2.3
+48,4503,48_4503,1638.669532,0.014336439,Houston-Galveston Area Council--Montgomery County (South)--The Woodlands (North),1639,1.4
+48,4504,48_4504,2093.147233,0.017665241,Houston-Galveston Area Council--Montgomery County (Southeast),2093,1.8
+48,4601,48_4601,6984.701112,0.057765912,Houston City (North Central)--North of I-10 & Inside Loop I-610,6985,5.8
+48,4602,48_4602,7794.864053,0.069627061,Houston City (East Central)--East of I-45 & Inside Loop I-610,7795,7
+48,4603,48_4603,8771.455769,0.066563621,"Houston City (South Central)--South of US-59, West of I-45 & Inside Loop I-610",8771,6.7
+48,4604,48_4604,3083.094648,0.02371479,Houston City (West Central)--South of I-10 & Inside Loop I-610,3083,2.4
+48,4605,48_4605,6763.818008,0.053340856,Harris County (Southeast)--Pasadena City (North & Central)--Inside Beltway TX-8,6764,5.3
+48,4606,48_4606,6799.672262,0.056814469,"Houston (East), Galena Park, Jacinto Cities & Cloverleaf",6800,5.7
+48,4607,48_4607,8407.312049,0.074896619,Houston City (Northeast)--Between Loop I-610 & Beltway TX-8,8407,7.5
+48,4608,48_4608,7004.397754,0.065939508,Houston City (North) & Aldine--Between Loop I-610 & Beltway TX-8,7004,6.6
+48,4609,48_4609,9662.1173,0.070713013,Houston City (North)--South of Aldine & Inside Beltway TX-8,9662,7.1
+48,4610,48_4610,7009.109834,0.059760772,Houston City (North)--West of Aldine & Inside Beltway TX-8,7009,6
+48,4611,48_4611,4136.131316,0.039808698,Houston City (Northwest)--Between Loop I-610 & Beltway TX-8,4136,4
+48,4612,48_4612,5702.279835,0.048103422,Houston (West) & Spring Valley Village Cities--Between Loop I-610 & Beltway TX-8,5702,4.8
+48,4613,48_4613,3746.646922,0.032300986,Houston (West) & Hunters Creek Village Cities--Between Loop I-610 & Beltway TX-8,3747,3.2
+48,4614,48_4614,5395.697736,0.048173651,"Houston City (West)--Westpark Tollway, Between Loop I-610 & Beltway TX-8",5396,4.8
+48,4615,48_4615,5086.750429,0.049089462,Houston (Southwest) & Bellaire (Southeast) Cities--Between Loop I-610 & Beltway TX-8,5087,4.9
+48,4616,48_4616,5995.270952,0.047024488,Houston City (Southwest)--Between Loop I-610 & Beltway TX-8,5995,4.7
+48,4617,48_4617,8428.18308,0.072145127,Houston City (South)--Between Loop I-610 & Beltway TX-8,8428,7.2
+48,4618,48_4618,7550.981994,0.066331893,Houston City (Southeast)--West of Pasadena City & Outside Loop I-610,7551,6.6
+48,4619,48_4619,7357.689474,0.063632801,Houston (Southeast) & South Houston Cities--Inside Beltway TX-8,7358,6.4
+48,4620,48_4620,4098.185527,0.034935009,Houston (Southeast) & Webster Cities,4098,3.5
+48,4621,48_4621,4528.171299,0.040930886,"Houston (Southeast), Pasadena (Southeast), La Porte (South) & Seabrook (East) Cities",4528,4.1
+48,4622,48_4622,4427.602175,0.040571194,"Harris County (East)--Deer Park, La Porte (North) Cities & Channelview",4428,4.1
+48,4623,48_4623,5824.513814,0.050671805,Harris County (East)--Baytown City,5825,5.1
+48,4624,48_4624,2909.227183,0.024622044,Harris County (Northeast)--Houston City (Far Northeast),2909,2.5
+48,4625,48_4625,3673.281878,0.030557504,"Harris County (North)--Houston (North), Humble Cities & Atascocita",3673,3.1
+48,4626,48_4626,8314.422292,0.06138951,"Harris County (North)--Houston City (North)--I-45, Between Beltway TX-8 & FM-1960",8314,6.1
+48,4627,48_4627,3280.04615,0.025638925,Harris County (Far North)--Spring,3280,2.6
+48,4628,48_4628,4811.918186,0.040124722,Harris County (Northwest)--Jersey Village City--Between Beltway TX-8 & FM-1960,4812,4
+48,4629,48_4629,3223.541828,0.027760101,"Harris County (North)--North of FM-1960, West of I-45 & East of TX-249",3224,2.8
+48,4630,48_4630,3563.3586,0.029028656,Harris County (Far North)--Tomball City & The Woodlands (Southwest),3563,2.9
+48,4631,48_4631,2816.268416,0.022149222,Harris County (Northwest)--North of US-290 & North of FM-1960,2816,2.2
+48,4632,48_4632,2393.347656,0.019929657,Harris County (Far Northwest)--Katy City (Northeast),2393,2
+48,4633,48_4633,4349.98451,0.039351873,Harris County (Northwest)--South of US-290 & West of TX-6,4350,3.9
+48,4634,48_4634,2584.484644,0.022189545,Harris County (West)--Houston City (West)--North of US-90 & West of TX-6,2584,2.2
+48,4635,48_4635,3812.799632,0.033980876,Houston City (West)--South of I-10 & West of TX-6,3813,3.4
+48,4636,48_4636,2609.798703,0.022269297,Houston City (West)--East of TX-6 & West of Beltway TX-8,2610,2.2
+48,4637,48_4637,6289.916397,0.051280528,"Houston City (West)--Westpark Tollway, West of Beltway TX-8",6290,5.1
+48,4638,48_4638,7599.197251,0.068173334,Houston City (Southwest)--East of TX-6 & West of Beltway TX-8,7599,6.8
+48,4701,48_4701,9994.251158,0.061768979,"Galveston County (Central, South & East)--Galveston, Texas City & La Marque Cities",9994,6.2
+48,4702,48_4702,3366.937862,0.022702739,Galveston County (Northwest)--League City & Friendswood City,3367,2.3
+48,4801,48_4801,1382.884784,0.012200352,Houston-Galveston Area Council--Brazoria County (North)--Pearland City,1383,1.2
+48,4802,48_4802,7320.446909,0.064879544,Houston-Galveston Area Council--Brazoria County (Central)--Alvin City,7320,6.5
+48,4803,48_4803,5033.199467,0.048803713,Houston-Galveston Area Council--Brazoria County (Southwest)--Lake Jackson City,5033,4.9
+48,4901,48_4901,5317.236748,0.045574073,Fort Bend County (East)--Missouri City,5317,4.6
+48,4902,48_4902,3714.429905,0.029637644,Fort Bend County (Northeast)--Sugar Land & Stafford Cities,3714,3
+48,4903,48_4903,3179.085914,0.029144164,"Fort Bend County (Central)--Rosenberg City, Pecan Grove & New Territory",3179,2.9
+48,4904,48_4904,3761.082651,0.027333578,"Fort Bend County (North)--Mission Bend (Southwest), Cinco Ranch & Four Corners",3761,2.7
+48,4905,48_4905,3953.436958,0.023084741,Fort Bend County (West & South),3953,2.3
+48,5000,48_5000,9891.120794,0.055372074,Houston-Galveston Area Council (West),9891,5.5
+48,5100,48_5100,7585.127687,0.048238184,"Capital Area COG (East)--Bastrop, Caldwell, Fayette & Lee Counties",7585,4.8
+48,5201,48_5201,3355.178162,0.028346835,Capital Area COG--Williamson County (North)--Georgetown (East) & Taylor Cities,3355,2.8
+48,5202,48_5202,3207.53403,0.026611032,Capital Area COG--Williamson County (Southeast)--Round Rock City,3208,2.7
+48,5203,48_5203,2608.958241,0.023076864,"Williamson County (South)--Austin City (Far North), Brushy Creek & Jollyville",2609,2.3
+48,5204,48_5204,3502.777705,0.028705267,Capital Area COG--Williamson County (West)--Cedar Park & Leander Cities,3503,2.9
+48,5301,48_5301,2570.918069,0.020358212,"Travis County (Northeast)--Pflugerville, Manor Cities & Wells Branch",2571,2
+48,5302,48_5302,3984.581326,0.034561697,Austin City (North),3985,3.5
+48,5303,48_5303,5371.087315,0.038352381,Austin City (Northeast),5371,3.8
+48,5304,48_5304,9112.044567,0.060414001,Austin City (Southeast),9112,6
+48,5305,48_5305,2768.946422,0.025333423,Austin City (Northwest),2769,2.5
+48,5306,48_5306,5794.6208,0.040982351,Austin City (Central),5795,4.1
+48,5307,48_5307,4265.248274,0.035410728,Austin City (South),4265,3.5
+48,5308,48_5308,2445.9604,0.021002486,"Austin City (Southwest), Lost Creek & Barton Creek",2446,2.1
+48,5309,48_5309,3354.572106,0.028117381,"Travis County (West, South & Outside Austin City)",3355,2.8
+48,5400,48_5400,10230.05619,0.05799339,Capital Area COG (Southwest)--Hays County,10230,5.8
+48,5500,48_5500,5575.309953,0.039332349,Golden Crescent Regional Planning Commission (North) & Wilson & Karnes Counties,5575,3.9
+48,5600,48_5600,7022.96777,0.060334694,Golden Crescent Regional Planning Commission (Southeast)--Victoria & Calhoun Counties,7023,6
+48,5700,48_5700,5327.653501,0.03670444,Alamo Area COG (Northeast)--Guadalupe County,5328,3.7
+48,5800,48_5800,4200.865889,0.035097111,Alamo Area COG (Northeast)--Comal County,4201,3.5
+48,5901,48_5901,10859.43279,0.094017841,San Antonio City (Central),10859,9.4
+48,5902,48_5902,7389.045213,0.05920789,San Antonio City (Northeast)--Inside Loop I-410,7389,5.9
+48,5903,48_5903,8535.427603,0.06856779,San Antonio City (Southeast)--Inside Loop I-410,8535,6.9
+48,5904,48_5904,7662.344959,0.065765813,San Antonio City (Northwest)--Inside Loop I-410,7662,6.6
+48,5905,48_5905,11424.48772,0.093113966,San Antonio City (West)--Inside Loop I-410,11424,9.3
+48,5906,48_5906,12312.30739,0.088921055,San Antonio City (Southwest)--Inside Loop I-410,12312,8.9
+48,5907,48_5907,7266.476189,0.065381341,Bexar County (South)--San Antonio City (Far South),7266,6.5
+48,5908,48_5908,7034.436414,0.059192706,San Antonio City (West)--Between Loop TX-1604 & Loop I-410,7034,5.9
+48,5909,48_5909,3340.194616,0.028121704,San Antonio (Northwest) & Leon Valley Cities,3340,2.8
+48,5910,48_5910,5812.04314,0.048382305,San Antonio City (Northwest)--Between Loop TX-1604 & Loop I-410,5812,4.8
+48,5911,48_5911,3145.714628,0.025750997,"San Antonio City (North), Hollywood Park Town & Shavano Park City",3146,2.6
+48,5912,48_5912,5337.340869,0.048513375,San Antonio City (Northeast)--Between Loop TX-1604 & Loop I-410,5337,4.9
+48,5913,48_5913,5114.684289,0.046932034,"San Antonio (Northeast), Kirby & Windcrest Cities",5115,4.7
+48,5914,48_5914,2308.172443,0.018906299,Bexar County (Northwest)--San Antonio (Far Northwest) & Helotes Cities,2308,1.9
+48,5915,48_5915,1971.866121,0.016923824,Bexar County (North)--San Antonio City (Far North) & Timberwood Park,1972,1.7
+48,5916,48_5916,4412.478793,0.040828269,"Bexar County (Northeast)--San Antonio (Northeast), Universal City & Converse Cities",4412,4.1
+48,6000,48_6000,6038.594719,0.048230149,Alamo Area COG (Northwest) & Blanco County,6039,4.8
+48,6100,48_6100,6733.081532,0.049483236,Alamo Area COG (Southwest),6733,4.9
+48,6200,48_6200,10969.08853,0.0612185,Middle Rio Grande Development Council,10969,6.1
+48,6301,48_6301,14448.27915,0.09762419,South Texas Development Council (North)--Webb County--Laredo City (Central),14448,9.8
+48,6302,48_6302,9121.475951,0.067970164,South Texas Development Council--Webb County (North & East)--Laredo City (Outer),9121,6.8
+48,6400,48_6400,9446.92722,0.08302366,South Texas Development Council (South) & Coastal Bend COG (West),9447,8.3
+48,6500,48_6500,8637.978104,0.066705413,Coastal Bend COG (Northeast),8638,6.7
+48,6601,48_6601,5493.102546,0.043342151,Coastal Bend COG--Nueces County--Corpus Christi City (Outer),5493,4.3
+48,6602,48_6602,9126.490246,0.074542865,Coastal Bend COG--Nueces County (Central)--Corpus Christi City (North Central),9126,7.5
+48,6603,48_6603,5310.993124,0.044008054,Coastal Bend COG--Nueces County (Central)--Corpus Christi City (South Central),5311,4.4
+48,6701,48_6701,10493.78819,0.078152575,Cameron County (East)--Brownsville City (North),10494,7.8
+48,6702,48_6702,12893.37014,0.081696704,Cameron County (West)--Harlingen & San Benito Cities,12893,8.2
+48,6703,48_6703,14878.89985,0.0934714,Cameron County (South)--Brownsville City (Central),14879,9.3
+48,6801,48_6801,9743.0039,0.086221695,Hidalgo County (Southeast)--Weslaco & Mercedes Cities,9743,8.6
+48,6802,48_6802,9521.388177,0.079893343,Hidalgo County (East)--Alamo & Donna Cities,9521,8
+48,6803,48_6803,10197.70739,0.073023401,"Hidalgo County (South Central)--Pharr, San Juan & Hidalgo Cities",10198,7.3
+48,6804,48_6804,7690.95887,0.063757911,Hidalgo County (North Central)--Edinburg City,7691,6.4
+48,6805,48_6805,10354.43492,0.070286229,Hidalgo County (Central)--McAllen City,10354,7
+48,6806,48_6806,6392.248155,0.05436701,Hidalgo County (Southwest)--Mission City,6392,5.4
+48,6807,48_6807,8166.502238,0.069241762,Hidalgo County (North & West),8167,6.9
+48,6900,48_6900,7774.39831,0.07118094,Coastal Bend COG (Southeast) & Willacy County,7774,7.1
+49,3001,49_3001,3343.864366,0.028600488,Tooele & Box Elder Counties,3344,2.9
+49,5001,49_5001,4161.510514,0.023769816,"Cache, Summit, Morgan & Rich Counties",4162,2.4
+49,11001,49_11001,3026.674315,0.014003781,"Davis County (North)--Layton, Clearfield, Kaysville, Syracuse & Clinton Cities",3027,1.4
+49,11002,49_11002,2087.077969,0.017554218,"Davis County (South)--Bountiful, Farmington & North Salt Lake Cities",2087,1.8
+49,13001,49_13001,4771.482864,0.033186179,Southeast Utah & Uintah Basin Region,4771,3.3
+49,21001,49_21001,6037.318975,0.041617654,Southwest & South Central Utah (Outside Washington County)--Cedar City,6037,4.2
+49,35001,49_35001,4956.996301,0.043397501,"Salt Lake County (Northwest)--Salt Lake City (West), West Valley City (West) & Magna",4957,4.3
+49,35002,49_35002,4307.019315,0.034747969,Salt Lake County (Northeast)--Salt Lake City (East),4307,3.5
+49,35003,49_35003,4701.148263,0.039606836,"Salt Lake County--West Valley City (Central), Salt Lake City (South Central) & Kearns",4701,4
+49,35004,49_35004,5401.77405,0.042356316,"Salt Lake County--West Valley City (East), Taylorsville & Murray (West) Cities",5402,4.2
+49,35005,49_35005,5098.790928,0.03190098,"Salt Lake County (East Central)--Murray (East), Holladay Cities & Millcreek",5099,3.2
+49,35006,49_35006,1721.026192,0.014904696,"Salt Lake County--West Jordan (West), Herriman & South Jordan (West) Cities",1721,1.5
+49,35007,49_35007,3096.437832,0.019634476,"Salt Lake County--West Jordan (East), South Jordan (East) & Riverton Cities",3096,2
+49,35008,49_35008,2884.448199,0.025770241,"Salt Lake County (Southeast)--Sandy (North), Cottonwood Heights & Midvale Cities",2884,2.6
+49,35009,49_35009,1984.465427,0.018346144,Salt Lake County (South & East Central)--Draper (Northwest) & Sandy (South) Cities,1984,1.8
+49,49001,49_49001,1950.702483,0.015820066,"Utah County (West)--Saratoga Springs, Payson & Lehi (Southwest) Cities",1951,1.6
+49,49002,49_49002,4756.946834,0.027754011,"Utah County (Central)--Orem, Pleasant Grove, American Fork & Lindon Cities",4757,2.8
+49,49003,49_49003,4266.309676,0.035115879,Utah County (Central)--Provo City,4266,3.5
+49,49004,49_49004,2764.601071,0.017747842,"Utah County (East)--Spanish Fork, Springville, Lehi (Northeast) & Highland Cities",2765,1.8
+49,53001,49_53001,5432.785985,0.035142314,Washington County--St. George City,5433,3.5
+49,57001,49_57001,4200.879638,0.030254247,"Weber County (West)--Roy, North Ogden, Ogden (Northwest) & West Haven Cities",4201,3
+49,57002,49_57002,5012.33519,0.044986688,Weber County (East)--Ogden (Southeast) & South Ogden Cities,5012,4.5
+51,1301,51_1301,2474.706287,0.020200331,Arlington County (North),2475,2
+51,1302,51_1302,2919.852792,0.024568601,Arlington County (South),2920,2.5
+51,4101,51_4101,3366.365236,0.031377416,Chesterfield County (East)--James River Region,3366,3.1
+51,4102,51_4102,3524.567577,0.028346768,Chesterfield County (Central)--Chester & Rockwood,3525,2.8
+51,4103,51_4103,2204.548245,0.020221097,Chesterfield County (West)--Brandermill & Woodlake,2205,2
+51,10701,51_10701,2554.786038,0.021399887,Loudoun County (Northeast)--Sterling & Ashburn (Northeast/Ashburn Village),2555,2.1
+51,10702,51_10702,812.122982,0.006551175,Loudoun County (East Central)--Ashburn (Southwest/Belmont Ridge) & Dulles Airport,812,0.7
+51,10703,51_10703,2747.475952,0.023678344,Loudoun County (West & South)--Leesburg Town,2747,2.4
+51,51010,51_51010,10992.93805,0.052974716,LENOWISCO & Cumberland Plateau Planning District Commissions,10993,5.3
+51,51020,51_51020,9215.185546,0.046117369,Mount Rogers Planning District Commission,9215,4.6
+51,51040,51_51040,6781.808,0.036209576,New River Valley Planning District Commission,6782,3.6
+51,51044,51_51044,5642.422995,0.041354556,"Roanoke Valley-Alleghany Regional Commission (Roanoke, Salem Cities & Vinton Town)",5642,4.1
+51,51045,51_51045,6752.996182,0.032292519,Roanoke Valley-Alleghany Regional Commission (Outside Roanoke & Salem Cities),6753,3.2
+51,51080,51_51080,5770.976611,0.03494788,Central Shenandoah Planning District Commission (Southwest),5771,3.5
+51,51084,51_51084,3666.350953,0.028733755,Northern Shenandoah Valley Regional Commission (North),3666,2.9
+51,51085,51_51085,4264.549883,0.038903512,Northern Shenandoah Valley Regional Commission (South),4265,3.9
+51,51087,51_51087,6526.865345,0.037041418,Rappahannock-Rapidan Regional Commission,6527,3.7
+51,51089,51_51089,4358.854776,0.037995502,Thomas Jefferson Planning District Commission (South & East),4359,3.8
+51,51090,51_51090,3560.445723,0.026126148,Thomas Jefferson Planning District Commission (North),3560,2.6
+51,51095,51_51095,4243.144086,0.032330677,"Virginia's Region 2000 (North)--Bedford, Amherst, Appomattox Counties & Bedford City",4243,3.2
+51,51096,51_51096,4493.466606,0.032637704,Virginia's Region 2000 (South)--Campbell County & Lynchburg City,4493,3.3
+51,51097,51_51097,8439.196757,0.042991456,West Piedmont Planning District Commission,8439,4.3
+51,51105,51_51105,10001.42426,0.054130092,Southside Planning District Commission & Commonwealth Regional Council,10001,5.4
+51,51110,51_51110,4923.146749,0.036227815,Central Shenandoah Planning District Commission (Northeast),4923,3.6
+51,51115,51_51115,3178.167216,0.01887898,George Washington Regional Commission (North),3178,1.9
+51,51120,51_51120,7147.352696,0.037959199,George Washington Regional Commission (South),7147,3.8
+51,51125,51_51125,7838.083668,0.044432551,"Middle Peninsula, Northern Neck & Accomack-Northampton Planning District Commissions",7838,4.4
+51,51135,51_51135,7543.057924,0.044497922,Crater Planning District Commission,7543,4.4
+51,51145,51_51145,5852.141077,0.038655303,"Isle of Wight, Southampton Counties, Suffolk & Franklin Cities",5852,3.9
+51,51154,51_51154,13904.87493,0.058845829,Norfolk City (Northeast),13905,5.9
+51,51155,51_51155,6220.967275,0.052310765,Portsmouth & Norfolk (Southwest) Cities,6221,5.2
+51,51164,51_51164,3955.408318,0.026297063,Virginia Beach City (North),3955,2.6
+51,51165,51_51165,5820.723389,0.032509264,Virginia Beach City (Central),5821,3.3
+51,51167,51_51167,3937.471654,0.029655116,Virginia Beach City (South),3937,3
+51,51175,51_51175,7348.263266,0.038958963,Newport News City,7348,3.9
+51,51186,51_51186,6634.817344,0.046545364,Hampton City,6635,4.7
+51,51206,51_51206,5317.237097,0.031544663,"James City, York Counties, Williamsburg & Poquoson Cities",5317,3.2
+51,51215,51_51215,4517.614941,0.023072878,"Hanover, Powhatan, Goochland, New Kent, King William & Charles City Counties",4518,2.3
+51,51224,51_51224,6764.287975,0.0440166,"Henrico County (South & East)--Highland Springs, East Highland Park & Glen Allen",6764,4.4
+51,51225,51_51225,5795.828103,0.032779373,"Henrico County (West)--Tuckahoe, Short Pump & Wyndham",5796,3.3
+51,51235,51_51235,12429.58309,0.055662386,Richmond City,12430,5.6
+51,51244,51_51244,2362.445036,0.018905334,Prince William County (North & West)--Linton Hall & Gainesville,2362,1.9
+51,51245,51_51245,2535.950559,0.018994845,"Manassas, Manassas Park Cities & Prince William County (Central)--Buckhall & Sudley",2536,1.9
+51,51246,51_51246,6978.553748,0.026356021,"Prince William County (Southeast)--Dale City, Lake Ridge & Woodbridge",6979,2.6
+51,51255,51_51255,3659.58871,0.023049133,Alexandria City,3660,2.3
+51,55001,51_55001,5808.125412,0.046364892,Chesapeake City (Northeast),5808,4.6
+51,55002,51_55002,1495.107523,0.014002407,Chesapeake City (South & West),1495,1.4
+51,59301,51_59301,4439.713675,0.026320485,"Fairfax County (East Central)--Annandale, West Falls Church & Bailey's Crossroads",4440,2.6
+51,59302,51_59302,2089.165405,0.015619412,"Fairfax County (Southeast)--Woodlawn, Rose Hill & Mount Vernon",2089,1.6
+51,59303,51_59303,3545.541522,0.021105794,Fairfax County (Central) & Fairfax City--Burke,3546,2.1
+51,59304,51_59304,1624.514246,0.014881501,Fairfax County (Southwest)--Centreville (Southeast) & Lorton,1625,1.5
+51,59305,51_59305,2021.35978,0.015876856,"Fairfax County (North Central)--Vienna Town, Oakton & Fair Oaks (East)",2021,1.6
+51,59306,51_59306,1750.45583,0.015010272,"Fairfax County (South Central)--Springfield (South), West Springfield & Franconia",1750,1.5
+51,59307,51_59307,2582.905808,0.014301842,Fairfax County (Northwest)--Reston (North) & Franklin Farm,2583,1.4
+51,59308,51_59308,1911.475356,0.01582616,Fairfax County (Northeast)--McLean & Idylwood,1911,1.6
+51,59309,51_59309,2505.821825,0.022135256,Fairfax County (West Central)--Centreville (North & West) & Chantilly (South & West),2506,2.2
+56,100,56_100,2669.48528,0.023042277,"Sheridan, Park, Teton, Lincoln & Big Horn Counties",2669,2.3
+56,200,56_200,2560.475546,0.025007676,"Campbell, Goshen, Platte, Johnson, Washakie, Weston, Crook & Niobrara Counties",2560,2.5
+56,300,56_300,3368.477502,0.025387926,Laramie & Albany Counties,3368,2.5
+56,400,56_400,3683.225337,0.033106517,"Natrona, Carbon & Converse Counties",3683,3.3
+56,500,56_500,4259.717278,0.034992654,"Sweetwater, Fremont, Uinta, Sublette & Hot Springs Counties--Wind River Reservation",4260,3.5
