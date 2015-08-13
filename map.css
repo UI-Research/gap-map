@@ -63,17 +63,8 @@ a:active {
     text-transform: uppercase;
 }
 
-#mapholder {
-    display: block;
-    position: absolute;
-    top: 152px;
-    bottom: 0;
-    width: 100%;
-
-}
-
 #map {
-    position: relative;
+    position: absolute;
     top: 0px;
     bottom: 0;
     width: 100%;
