@@ -1,5 +1,5 @@
 L.mapbox.accessToken = 'pk.eyJ1IjoidXJiYW5pbnN0aXR1dGUiLCJhIjoiTEJUbmNDcyJ9.mbuZTy4hI_PWXw3C3UFbDQ';
-var map = L.mapbox.map("map", 'urbaninstitute.iji12b2j', {
+var map = L.mapbox.map("map", 'urbaninstitute.gp96529f', {
         zoomControl: true,
         fadeAnimation: false,
         maxZoom: 10,
@@ -17,6 +17,9 @@ var gridControl = L.mapbox.gridControl(gridLayer, {
     .addTo(map);
 //L.mapbox.tileLayer('urbaninstitute.h5b1kc2b').addTo(map);
 map.gridControl.options.follow = true;
+
+
+
 
 var colors = ["#b0d5f1", "#82c4e9", "#1696d2", "#00578b", "#00152A"];
 var legend_breaks = [0.02, 0.04, 0.06, 0.08];
